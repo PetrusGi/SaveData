@@ -761,4 +761,81 @@
     ],
     "leadMagnets": []
   }
+    {
+    "id": "xero001",
+    "name": "Xero",
+    "country": "NZ",
+    "website": "https://www.xero.com/us/",
+    "subscriptionModels": [
+      {
+        "name": "Early",
+        "currentPrice": "$2/month (for the first 3 months), then $20/month",
+        "currentPriceDate": "2025-03-15",
+        "oldPrice": "$20/month",
+        "oldPriceDate": "2025-03-15",
+        "invoiceAmount": "N/A",
+        "invoiceFrequency": "monthly",
+        "notes": "Send quotes and 20 invoices, enter 5 bills, reconcile bank transactions, capture bills and receipts with Hubdoc, short-term cash flow and business snapshot, W-9 + 1099 management, sales tax."
+      },
+      {
+        "name": "Growing",
+        "currentPrice": "$4.70/month (for the first 3 months), then $47/month",
+        "currentPriceDate": "2025-03-15",
+        "oldPrice": "$47/month",
+        "oldPriceDate": "2025-03-15",
+        "invoiceAmount": "N/A",
+        "invoiceFrequency": "monthly",
+        "notes": "Send unlimited invoices and quotes, enter unlimited bills, reconcile bank transactions, capture bills and receipts with Hubdoc, short-term cash flow and business snapshot, W-9 + 1099 management, sales tax."
+      },
+      {
+        "name": "Established",
+        "currentPrice": "$8/month (for the first 3 months), then $80/month",
+        "currentPriceDate": "2025-03-15",
+        "oldPrice": "$80/month",
+        "oldPriceDate": "2025-03-15",
+        "invoiceAmount": "N/A",
+        "invoiceFrequency": "monthly",
+        "notes": "Send unlimited invoices and quotes, enter unlimited bills, reconcile bank transactions, capture bills and receipts with Hubdoc, short-term cash flow and business snapshot, W-9 + 1099 management, sales tax, use multiple currencies, track projects, claim expenses, advanced cash flow predictions with Analytics Plus. Inventory Plus available as an optional add-on."
+      }
+    ],
+    "features": [
+      "All-in-one, paperless record keeping",
+      "Automated bank transaction reconciliation",
+      "Automated invoice reminders",
+      "Smart data and insights (trend analysis, customizable reporting)",
+      "Automatic data capture with Hubdoc",
+      "Online invoicing",
+      "Accept payments online",
+      "Inventory management",
+      "Payroll (via Gusto integration)",
+      "Expense management",
+      "Bank connections (with over 21,000 institutions)",
+      "Bank reconciliation",
+      "Pay bills",
+      "Track projects",
+      "Purchase orders",
+      "Reporting",
+      "Quotes",
+      "Multi-currency accounting",
+      "Manage Xero contacts",
+      "Sales tax automation (via Avalara integration)",
+      "Online file storage",
+      "Analytics (with upgrade to Analytics Plus)",
+      "Accounting dashboard",
+      "Manage fixed assets",
+      "Xero Accounting app (mobile)"
+    ],
+    "erps": [
+      "Custom"
+    ],
+    "leadMagnets": [
+      "Free Trial",
+      "Customer Stories",
+      "Small Business Guides",
+      "Templates for your business (invoice, pay stub, receipt)",
+      "Accounting Glossary"
+    ]
+  }
+
+
 ]

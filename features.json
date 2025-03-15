@@ -450,5 +450,106 @@
   {
     "name": "Integration with financial services",
     "category": "Integration"
-  }
+  },
+{
+  "name": "All-in-one, paperless record keeping",
+  "category": "Accounting"
+},
+{
+  "name": "Automated bank transaction reconciliation",
+  "category": "Automation"
+},
+{
+  "name": "Automated invoice reminders",
+  "category": "Automation"
+},
+{
+  "name": "Smart data and insights (trend analysis, customizable reporting)",
+  "category": "Reporting & Analytics"
+},
+{
+  "name": "Automatic data capture with Hubdoc",
+  "category": "Automation"
+},
+{
+  "name": "Online invoicing",
+  "category": "Invoicing"
+},
+{
+  "name": "Accept payments online",
+  "category": "Payment"
+},
+{
+  "name": "Inventory management",
+  "category": "Inventory"
+},
+{
+  "name": "Payroll (via Gusto integration)",
+  "category": "HR & Payroll"
+},
+{
+  "name": "Expense management",
+  "category": "Expense Management"
+},
+{
+  "name": "Bank connections (with over 21,000 institutions)",
+  "category": "Integration"
+},
+{
+  "name": "Bank reconciliation",
+  "category": "Accounting"
+},
+{
+  "name": "Pay bills",
+  "category": "Accounts Payable"
+},
+{
+  "name": "Track projects",
+  "category": "Project Management"
+},
+{
+  "name": "Purchase orders",
+  "category": "Procurement"
+},
+{
+  "name": "Reporting",
+  "category": "Reporting & Analytics"
+},
+{
+  "name": "Quotes",
+  "category": "Sales"
+},
+{
+  "name": "Multi-currency accounting",
+  "category": "Accounting"
+},
+{
+  "name": "Manage Xero contacts",
+  "category": "CRM"
+},
+{
+  "name": "Sales tax automation (via Avalara integration)",
+  "category": "Compliance"
+},
+{
+  "name": "Online file storage",
+  "category": "Productivity"
+},
+{
+  "name": "Analytics (with upgrade to Analytics Plus)",
+  "category": "Reporting & Analytics"
+},
+{
+  "name": "Accounting dashboard",
+  "category": "Accounting"
+},
+{
+  "name": "Manage fixed assets",
+  "category": "Asset Management"
+},
+{
+  "name": "Xero Accounting app (mobile)",
+  "category": "Mobile Access"
+}
+
 ]
