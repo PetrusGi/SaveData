@@ -193,7 +193,7 @@
       {
         "name": "Invoicing",
         "currentPrice": 13,
-        "currentPriceDate": "2025-03-07",
+        "currentPriceDate": "2025-03-16",
         "oldPrice": 11,
         "invoiceFrequency": "quarterly",
         "notes": "Pay per 3 months. Price is10 p/m if paid yearly and used to be 8 p/m if paid yearly."
@@ -201,7 +201,7 @@
       {
         "name": "Standard",
         "currentPrice": 28,
-        "currentPriceDate": "2025-03-07",
+        "currentPriceDate": "2025-03-16",
         "oldPrice": 25,
         "invoiceFrequency": "quarterly",
         "notes": "Pay per 3 months. Price is 24 p/m if paid yearly and used to be 21 p/m if paid yearly."
@@ -209,7 +209,7 @@
       {
         "name": "Pro",
         "currentPrice": 37,
-        "currentPriceDate": "2025-03-07",
+        "currentPriceDate": "2025-03-16",
         "oldPrice": 24,
         "invoiceFrequency": "quarterly",
         "notes": "Pay per 3 months. Price is 34 p/m if paid yearly and used to be 21 p/m if paid yearly"
@@ -222,7 +222,6 @@
       "Real-time financial dashboard",
       "Scanned receipts directly in the accounting system",
       "Tax compliance and management",
-      "24/7 availability with secure access to key business figures",
       "Expandable with modules for quotes, orders, webshops, and logistics",
       "Accountant access",
       "Smart automation reduces errors and increases efficiency"
