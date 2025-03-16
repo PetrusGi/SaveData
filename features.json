@@ -12,7 +12,7 @@
     "category": "Automation"
   },
   {
-    "name": "Abonnementenbeheer",
+    "name": "Subscription management",
     "category": "Misc"
   },
   {
@@ -20,7 +20,7 @@
     "category": "Automation"
   },
   {
-    "name": "Automated debt collection",
+    "name": "Debt collection and recovery",
     "category": "Automation"
   },
   {
@@ -32,16 +32,12 @@
     "category": "Automation"
   },
   {
-    "name": "Automatic VAT calculation and submission",
+    "name": "Tax compliance and management",
     "category": "Automation"
   },
   {
-    "name": "Automated bank integration and reconciliation",
+    "name": "Banking integration",
     "category": "Payment"
-  },
-  {
-    "name": "Banktransacties koppelen",
-    "category": "Misc"
   },
   {
     "name": "Creation and sending of recurring invoices",
@@ -52,10 +48,6 @@
     "category": "Misc"
   },
   {
-    "name": "Credit management automation",
-    "category": "Automation"
-  },
-  {
     "name": "Credit management features",
     "category": "Misc"
   },
@@ -64,16 +56,12 @@
     "category": "Customer"
   },
   {
-    "name": "Customer risk assessment and credit scoring",
+    "name": "Risk assessment and management",
     "category": "Customer"
   },
   {
     "name": "Customizable dashboards and analytics",
     "category": "Reporting"
-  },
-  {
-    "name": "Debt recovery support",
-    "category": "Communication"
   },
   {
     "name": "Dialogue through invoice portal",
@@ -92,16 +80,12 @@
     "category": "Misc"
   },
   {
-    "name": "Facturen en offertes",
+    "name": "Invoicing",
     "category": "Misc"
   },
   {
-    "name": "Financial analytics and forecasting",
+    "name": "Cash flow analytics",
     "category": "Reporting"
-  },
-  {
-    "name": "Financiële rapportages",
-    "category": "Mobile"
   },
   {
     "name": "Fraud prevention and vendor verification",
@@ -140,7 +124,7 @@
     "category": "Payment"
   },
   {
-    "name": "Multi-currency invoicing and international tax compliance",
+    "name": "Multi-company and multi-currency support",
     "category": "Security"
   },
   {
@@ -152,8 +136,8 @@
     "category": "Workflow"
   },
   {
-    "name": "Online betaalmethoden",
-    "category": "Misc"
+    "name": "Online payment methods",
+    "category": "Payment"
   },
   {
     "name": "Online bookkeeping tailored for freelancers and small businesses",
@@ -168,27 +152,19 @@
     "category": "Payment"
   },
   {
-    "name": "Peppol facturen verzenden",
+    "name": "Product management",
     "category": "Misc"
   },
   {
-    "name": "Productbeheer",
-    "category": "Misc"
-  },
-  {
-    "name": "Real-time financial dashboard and insights",
+    "name": "Real-time financial dashboard",
     "category": "Reporting"
-  },
-  {
-    "name": "Risk assessment and mitigation",
-    "category": "Misc"
   },
   {
     "name": "Scanned receipts directly in the accounting system",
     "category": "Accounting"
   },
   {
-    "name": "Collaboration with accountants",
+    "name": "Accountant access",
     "category": "Misc"
   },
   {
@@ -208,39 +184,11 @@
     "category": "Payment"
   },
   {
-    "name": "Tax compliance tools including VAT and ICP declarations",
-    "category": "Security"
-  },
-  {
-    "name": "Time tracking and mileage registration",
+    "name": "Time tracking",
     "category": "Workflow"
   },
   {
-    "name": "Toegang voor boekhouders",
-    "category": "Misc"
-  },
-  {
-    "name": "Unlimited booking of purchase and sales invoices",
-    "category": "Payment"
-  },
-  {
-    "name": "Unlimited online invoicing and quotations",
-    "category": "Misc"
-  },
-  {
-    "name": "Urenregistratie",
-    "category": "Misc"
-  },
-  {
-    "name": "Various payment methods",
-    "category": "Payment"
-  },
-  {
-    "name": "Workflow automatisering",
-    "category": "Automation"
-  },
-  {
-    "name": "Zakelijke betaalrekening",
+    "name": "Business payment account",
     "category": "Misc"
   },
   {
@@ -252,16 +200,8 @@
     "category": "Payment"
   },
   {
-    "name": "Debt collection tracking",
-    "category": "Workflow"
-  },
-  {
     "name": "Digitalized litigation process",
     "category": "Workflow"
-  },
-  {
-    "name": "Multi-company, multi-language, multi-currency support",
-    "category": "Communication"
   },
   {
     "name": "AI-based risk evaluation",
@@ -280,12 +220,8 @@
     "category": "Accounting"
   },
   {
-    "name": "Automatic data capture with Hubdoc",
+    "name": "Data capture",
     "category": "Automation"
-  },
-  {
-    "name": "Accept payments online",
-    "category": "Payment"
   },
   {
     "name": "Expense management and tracking",
@@ -300,7 +236,7 @@
     "category": "Accounts Payable"
   },
   {
-    "name": "Track projects",
+    "name": "Project management",
     "category": "Project Management"
   },
   {
@@ -308,16 +244,12 @@
     "category": "Procurement"
   },
   {
-    "name": "Reporting",
+    "name": "Financial reporting and analytics",
     "category": "Reporting & Analytics"
   },
   {
     "name": "Quotes",
     "category": "Sales"
-  },
-  {
-    "name": "Multi-currency accounting",
-    "category": "Accounting"
   },
   {
     "name": "Manage Xero contacts",
@@ -332,10 +264,6 @@
     "category": "Productivity"
   },
   {
-    "name": "Analytics (with upgrade to Analytics Plus)",
-    "category": "Reporting & Analytics"
-  },
-  {
     "name": "Accounting dashboard",
     "category": "Accounting"
   },
@@ -344,36 +272,12 @@
     "category": "Asset Management"
   },
   {
-    "name": "Xero Accounting app (mobile)",
-    "category": "Mobile Access"
-  },
-  {
-    "name": "Invoicing",
-    "category": "Accounting"
+    "name": "Mobile application",
+    "category": "Mobile"
   },
   {
     "name": "Banking",
     "category": "Accounting"
-  },
-  {
-    "name": "Self Assessment",
-    "category": "Tax"
-  },
-  {
-    "name": "VAT",
-    "category": "Tax"
-  },
-  {
-    "name": "Payroll",
-    "category": "Payroll"
-  },
-  {
-    "name": "Dashboard",
-    "category": "Business Insights"
-  },
-  {
-    "name": "Mobile app",
-    "category": "Mobile"
   },
   {
     "name": "Radar",
@@ -384,40 +288,12 @@
     "category": "Accounting"
   },
   {
-    "name": "Smart Capture",
-    "category": "Automation"
-  },
-  {
-    "name": "Projects",
-    "category": "Project Management"
-  },
-  {
-    "name": "End-of-year filing",
-    "category": "Tax"
-  },
-  {
-    "name": "Tax Timeline",
-    "category": "Tax"
-  },
-  {
     "name": "Smart categorisation",
     "category": "Automation"
   },
   {
-    "name": "Cashflow forecast",
-    "category": "Reporting"
-  },
-  {
-    "name": "One-click payments",
-    "category": "Payment"
-  },
-  {
     "name": "360° predictive account management",
     "category": "Misc"
-  },
-  {
-    "name": "Multi-company accounting in one platform",
-    "category": "Accounting"
   },
   {
     "name": "Customizable workflows",
