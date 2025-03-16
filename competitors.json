@@ -525,7 +525,6 @@
     "features": [
       "Debt collection and recovery",
       "Credit management features",
-      "360° predictive account management",
       "Automated payment reminder system",
       "Real-time customer support",
       "Order-to-cash process optimization",
@@ -790,7 +789,7 @@
         "invoiceFrequency": "monthly",
         "notes": "Enter unlimited bills, reconcile bank transactions, capture bills and receipts with Hubdoc, short-term cash flow and business snapshot, W-9 + 1099 management, sales tax, use multiple currencies, track projects, claim expenses, advanced cash flow predictions with Analytics Plus. Inventory Plus available as an optional add-on. 90% off the first 6 months."
       },
-       {
+      {
         "name": "Ultimate",
         "currentPrice": 59,
         "currentPriceDate": "2025-03-16",
