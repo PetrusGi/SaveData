@@ -838,5 +838,90 @@
       "Templates for your business (invoice, pay stub, receipt)",
       "Accounting Glossary"
     ]
+  },
+  [
+  {
+    "id": "freeagent001",
+    "name": "FreeAgent",
+    "country": "UK",
+    "website": "https://www.freeagent.com",
+    "subscriptionModels": [
+      {
+        "name": "Billed monthly",
+        "currentPrice": 33,
+        "currentPriceDate": "2025-03-17",
+        "invoiceFrequency": "monthly",
+        "notes": "50% off for the first six months. Regular price is 33/month."
+      },
+      {
+        "name": "Billed annually",
+        "currentPrice": 330,
+        "currentPriceDate": "2025-03-17",
+        "invoiceFrequency": "annually",
+        "notes": "50% off for the first year. Regular price is 330/year (equivalent to 27.5/month)."
+      },
+      {
+        "name": "Free",
+        "currentPrice": 0,
+        "currentPriceDate": "2025-03-17",
+        "invoiceFrequency": "monthly",
+        "notes": "Available if you have a qualifying business current account with NatWest, Royal Bank of Scotland, Ulster Bank, or Mettle."
+      }
+    ],
+    "features": [
+      "Invoicing",
+      "Expense Tracking",
+      "Time Tracking",
+      "Banking",
+      "Self Assessment",
+      "VAT",
+      "Payroll"
+    ],
+    "erps": [
+      "BrightTax",
+      "Capium",
+      "GoSimpleTax",
+      "IRIS Accounts Production",
+      "TaxCalc",
+      "Cyclr",
+      "Maesn",
+      "Make",
+      "Zapier",
+      "Tyl by NatWest",
+      "Stripe",
+      "Adsum’s InstantVAT",
+      "Billsby",
+      "GoCardless",
+      "Mimo",
+      "PayPal",
+      "BrightPay",
+      "Buddy",
+      "Employment Hero",
+      "Penfold",
+      "Staffology",
+      "BrightManager",
+      "Engager.app",
+      "IRIS Elements",
+      "Matters.Cloud",
+      "Uku",
+      "Xama",
+      "XBert"
+    ],
+    "leadMagnets": [
+      "Free Trial",
+      "Guides",
+      "Webinars",
+      "Customer Stories",
+      "Accounting Glossary",
+      "Interactive Tools",
+      "Allowable Expenses Calculator for Landlords",
+      "VAT Flat Rate Scheme Calculator",
+      "Mileage Calculator",
+      "VAT Calculator",
+      "ROI Calculator",
+      "Accounting Calendar"
+    ]
   }
+]
+
 ]
