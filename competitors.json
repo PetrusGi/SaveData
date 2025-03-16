@@ -761,41 +761,36 @@
     ],
     "leadMagnets": []
   },
-    {
+  {
     "id": "xero001",
     "name": "Xero",
     "country": "NZ",
-    "website": "https://www.xero.com/us/",
+    "website": "https://www.xero.com/",
     "subscriptionModels": [
       {
-        "name": "Early",
-        "currentPrice": "$2/month (for the first 3 months), then $20/month",
-        "currentPriceDate": "2025-03-15",
-        "oldPrice": "$20/month",
+        "name": "Ignite",
+        "currentPrice": 16,
+        "currentPriceDate": "2025-03-16",
         "oldPriceDate": "2025-03-15",
-        "invoiceAmount": "N/A",
+        "invoiceAmount": 20,
         "invoiceFrequency": "monthly",
-        "notes": "Send quotes and 20 invoices, enter 5 bills, reconcile bank transactions, capture bills and receipts with Hubdoc, short-term cash flow and business snapshot, W-9 + 1099 management, sales tax."
+        "notes": "Enter 5 bills, reconcile bank transactions, capture bills and receipts with Hubdoc, short-term cash flow and business snapshot, W-9 + 1099 management, sales tax. 90% off the first 6 months."
       },
       {
-        "name": "Growing",
-        "currentPrice": "$4.70/month (for the first 3 months), then $47/month",
-        "currentPriceDate": "2025-03-15",
-        "oldPrice": "$47/month",
+        "name": "Grow",
+        "currentPrice": 33,
+        "currentPriceDate": "2025-03-16",
         "oldPriceDate": "2025-03-15",
-        "invoiceAmount": "N/A",
         "invoiceFrequency": "monthly",
-        "notes": "Send unlimited invoices and quotes, enter unlimited bills, reconcile bank transactions, capture bills and receipts with Hubdoc, short-term cash flow and business snapshot, W-9 + 1099 management, sales tax."
+        "notes": "Enter unlimited bills, reconcile bank transactions, capture bills and receipts with Hubdoc, short-term cash flow and business snapshot, W-9 + 1099 management, sales tax. 90% off the first 6 months."
       },
       {
-        "name": "Established",
-        "currentPrice": "$8/month (for the first 3 months), then $80/month",
-        "currentPriceDate": "2025-03-15",
-        "oldPrice": "$80/month",
+        "name": "Comprehensive",
+        "currentPrice": 47,
+        "currentPriceDate": "2025-03-16",
         "oldPriceDate": "2025-03-15",
-        "invoiceAmount": "N/A",
         "invoiceFrequency": "monthly",
-        "notes": "Send unlimited invoices and quotes, enter unlimited bills, reconcile bank transactions, capture bills and receipts with Hubdoc, short-term cash flow and business snapshot, W-9 + 1099 management, sales tax, use multiple currencies, track projects, claim expenses, advanced cash flow predictions with Analytics Plus. Inventory Plus available as an optional add-on."
+        "notes": "Enter unlimited bills, reconcile bank transactions, capture bills and receipts with Hubdoc, short-term cash flow and business snapshot, W-9 + 1099 management, sales tax, use multiple currencies, track projects, claim expenses, advanced cash flow predictions with Analytics Plus. Inventory Plus available as an optional add-on. 90% off the first 6 months."
       }
     ],
     "features": [
@@ -836,6 +831,4 @@
       "Accounting Glossary"
     ]
   }
-
-
 ]
