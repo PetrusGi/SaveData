@@ -28,7 +28,7 @@
     "category": "Automation"
   },
   {
-    "name": "Automated debt recovery",
+    "name": "Automated debt collection",
     "category": "Automation"
   },
   {
@@ -36,7 +36,7 @@
     "category": "Automation"
   },
   {
-    "name": "Automated reminders",
+    "name": "Automated payment reminder system",
     "category": "Automation"
   },
   {
@@ -73,10 +73,6 @@
   },
   {
     "name": "Custom reminders",
-    "category": "Customer"
-  },
-  {
-    "name": "Customer portal for easy access",
     "category": "Customer"
   },
   {
@@ -120,10 +116,6 @@
     "category": "Misc"
   },
   {
-    "name": "Email/SMS chase automation",
-    "category": "Automation"
-  },
-  {
     "name": "Expandable with modules for quotes, orders, webshops, and logistics",
     "category": "Misc"
   },
@@ -152,7 +144,7 @@
     "category": "Payment"
   },
   {
-    "name": "Integration with online payment solutions",
+    "name": "Payment processing integration",
     "category": "Payment"
   },
   {
@@ -208,10 +200,6 @@
     "category": "Payment"
   },
   {
-    "name": "Payment processing integration",
-    "category": "Payment"
-  },
-  {
     "name": "Payment reminders and dunning management",
     "category": "Payment"
   },
@@ -224,11 +212,7 @@
     "category": "Misc"
   },
   {
-    "name": "Real-time financial dashboard and reporting",
-    "category": "Reporting"
-  },
-  {
-    "name": "Real-time financial insights and reporting",
+    "name": "Real-time financial dashboard and insights",
     "category": "Reporting"
   },
   {
@@ -252,7 +236,7 @@
     "category": "Misc"
   },
   {
-    "name": "Secure client portal for payments and document access",
+    "name": "Secure customer portal with payment options",
     "category": "Payment"
   },
   {
@@ -316,60 +300,8 @@
     "category": "Misc"
   },
   {
-    "name": "Email/SMS chase automation",
-    "category": "Automation"
-  },
-  {
-    "name": "Credit risk dashboard",
-    "category": "Reporting"
-  },
-  {
-    "name": "Custom reminders",
-    "category": "Customer"
-  },
-  {
-    "name": "Debt recovery support",
-    "category": "Communication"
-  },
-  {
-    "name": "Real-time insights through an online dashboard",
-    "category": "Reporting"
-  },
-  {
-    "name": "Easy creation of invoices, including VAT-reversed invoices",
-    "category": "Payment"
-  },
-  {
-    "name": "Real-time financial dashboard with insights",
-    "category": "Reporting"
-  },
-  {
-    "name": "Seamless collaboration with accountants",
+    "name": "Credit risk management",
     "category": "Misc"
-  },
-  {
-    "name": "Subscription and recurring billing management",
-    "category": "Payment"
-  },
-  {
-    "name": "Multi-company accounting in one platform",
-    "category": "Accounting"
-  },
-  {
-    "name": "Automated debt collection",
-    "category": "Automation"
-  },
-  {
-    "name": "Credit management optimization",
-    "category": "Misc"
-  },
-  {
-    "name": "360° predictive account management",
-    "category": "Misc"
-  },
-  {
-    "name": "Automated client reminders",
-    "category": "Automation"
   },
   {
     "name": "Real-time customer support",
@@ -378,14 +310,6 @@
   {
     "name": "Order-to-cash process optimization",
     "category": "Payment"
-  },
-  {
-    "name": "Dashboard with financial insights",
-    "category": "Reporting"
-  },
-  {
-    "name": "Secure client portal",
-    "category": "Customer"
   },
   {
     "name": "Online payment platform",
@@ -408,18 +332,6 @@
     "category": "Automation"
   },
   {
-    "name": "Automated payment reminders and dunning process",
-    "category": "Automation"
-  },
-  {
-    "name": "Credit risk management",
-    "category": "Misc"
-  },
-  {
-    "name": "Automated customer reminders",
-    "category": "Automation"
-  },
-  {
     "name": "Dispute management",
     "category": "Misc"
   },
@@ -430,10 +342,6 @@
   {
     "name": "Digitalized litigation process",
     "category": "Workflow"
-  },
-  {
-    "name": "Customer portal with payment options",
-    "category": "Payment"
   },
   {
     "name": "Multi-company, multi-language, multi-currency support",
@@ -457,10 +365,6 @@
   },
   {
     "name": "Automated bank transaction reconciliation",
-    "category": "Automation"
-  },
-  {
-    "name": "Automated invoice reminders",
     "category": "Automation"
   },
   {
@@ -551,7 +455,6 @@
     "name": "Xero Accounting app (mobile)",
     "category": "Mobile Access"
   },
-
   {
     "name": "Invoicing",
     "category": "Accounting"
@@ -623,7 +526,21 @@
   {
     "name": "One-click payments",
     "category": "Payment"
+  },
+  {
+    "name": "Credit management optimization",
+    "category": "Misc"
+  },
+  {
+    "name": "360° predictive account management",
+    "category": "Misc"
+  },
+  {
+    "name": "Subscription and recurring billing management",
+    "category": "Payment"
+  },
+  {
+    "name": "Multi-company accounting in one platform",
+    "category": "Accounting"
   }
 ]
-
-
