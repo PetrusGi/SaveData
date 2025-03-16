@@ -551,29 +551,79 @@
     "name": "Xero Accounting app (mobile)",
     "category": "Mobile Access"
   },
-  "All-in-one, paperless record keeping",
-  "Automated bank transaction reconciliation",
-  "Automated invoice reminders",
-  "Smart data and insights (trend analysis, customizable reporting)",
-  "Automatic data capture with Hubdoc",
-  "Online invoicing",
-  "Accept payments online",
-  "Inventory management",
-  "Payroll (via Gusto integration)",
-  "Expense management",
-  "Bank connections (with over 21,000 institutions)",
-  "Bank reconciliation",
-  "Pay bills",
-  "Track projects",
-  "Purchase orders",
-  "Reporting",
-  "Quotes",
-  "Multi-currency accounting",
-  "Manage Xero contacts",
-  "Sales tax automation (via Avalara integration)",
-  "Online file storage",
-  "Analytics (with upgrade to Analytics Plus)",
-  "Accounting dashboard",
-  "Manage fixed assets",
-  "Xero Accounting app (mobile)"
+[
+  {
+    "name": "Invoicing",
+    "category": "Accounting"
+  },
+  {
+    "name": "Expense Tracking",
+    "category": "Accounting"
+  },
+  {
+    "name": "Time Tracking",
+    "category": "Accounting"
+  },
+  {
+    "name": "Banking",
+    "category": "Accounting"
+  },
+  {
+    "name": "Self Assessment",
+    "category": "Tax"
+  },
+  {
+    "name": "VAT",
+    "category": "Tax"
+  },
+  {
+    "name": "Payroll",
+    "category": "Payroll"
+  },
+  {
+    "name": "Dashboard",
+    "category": "Business Insights"
+  },
+  {
+    "name": "Mobile app",
+    "category": "Mobile"
+  },
+  {
+    "name": "Radar",
+    "category": "Business Insights"
+  },
+  {
+    "name": "Estimates",
+    "category": "Accounting"
+  },
+  {
+    "name": "Smart Capture",
+    "category": "Automation"
+  },
+  {
+    "name": "Projects",
+    "category": "Project Management"
+  },
+  {
+    "name": "End-of-year filing",
+    "category": "Tax"
+  },
+  {
+    "name": "Tax Timeline",
+    "category": "Tax"
+  },
+  {
+    "name": "Smart categorisation",
+    "category": "Automation"
+  },
+  {
+    "name": "Cashflow forecast",
+    "category": "Reporting"
+  },
+  {
+    "name": "One-click payments",
+    "category": "Payment"
+  }
+]
+
 ]
