@@ -208,14 +208,6 @@
     "category": "Expense Management"
   },
   {
-    "name": "Bank connections (with over 21,000 institutions)",
-    "category": "Integration"
-  },
-  {
-    "name": "Pay bills",
-    "category": "Accounts Payable"
-  },
-  {
     "name": "Purchase orders",
     "category": "Procurement"
   },
@@ -238,10 +230,6 @@
   {
     "name": "Mobile application",
     "category": "Mobile"
-  },
-  {
-    "name": "Banking",
-    "category": "Accounting"
   },
   {
     "name": "Smart categorisation",
@@ -302,13 +290,5 @@
   {
     "name": "Digitalized credit committees with validation workflow",
     "category": "Workflow"
-  },
-  {
-    "name": "Radar",
-    "category": "Business Insights"
-  },
-  {
-    "name": "Estimates",
-    "category": "Accounting"
   }
 ]
