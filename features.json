@@ -1,39 +1,31 @@
 [
   {
-    "name": "AI-driven cash flow prediction and insights",
-    "category": "Automation"
-  },
-  {
-    "name": "Subscription management",
-    "category": "Misc"
-  },
-  {
-    "name": "Debt collection and recovery",
-    "category": "Automation"
-  },
-  {
-    "name": "Automated follow-up",
-    "category": "Automation"
-  },
-  {
     "name": "Automated payment reminder system",
     "category": "Automation"
   },
   {
-    "name": "Tax compliance and management",
+    "name": "Payment processing integration",
+    "category": "Payment"
+  },
+  {
+    "name": "Secure customer portal with payment options",
+    "category": "Payment"
+  },
+  {
+    "name": "Dispute management",
+    "category": "Misc"
+  },
+  {
+    "name": "Integrated mailbox",
     "category": "Automation"
   },
   {
-    "name": "Banking integration",
+    "name": "Online payment methods",
     "category": "Payment"
   },
   {
-    "name": "Creation and sending of recurring invoices",
-    "category": "Payment"
-  },
-  {
-    "name": "Credit insurance management",
-    "category": "Misc"
+    "name": "Real-time financial dashboard",
+    "category": "Reporting"
   },
   {
     "name": "Credit management features",
@@ -44,56 +36,124 @@
     "category": "Customer"
   },
   {
-    "name": "Risk assessment and management",
-    "category": "Customer"
+    "name": "Debt collection and recovery",
+    "category": "Automation"
   },
   {
-    "name": "Customizable dashboards and analytics",
-    "category": "Reporting"
+    "name": "Automated follow-up",
+    "category": "Automation"
   },
   {
     "name": "Dialogue through invoice portal",
     "category": "Payment"
   },
   {
-    "name": "Digital storage of invoices and receipts",
+    "name": "Smart payment plan",
     "category": "Payment"
   },
   {
-    "name": "Dispute management",
-    "category": "Misc"
+    "name": "Automated invoicing",
+    "category": "Payment"
+  },
+  {
+    "name": "Notes and task lists",
+    "category": "Workflow"
+  },
+  {
+    "name": "Unlimited booking of purchase and sales invoices",
+    "category": "Payment"
+  },
+  {
+    "name": "Creation and sending of recurring invoices",
+    "category": "Payment"
+  },
+  {
+    "name": "Scanned receipts directly in the accounting system",
+    "category": "Accounting"
+  },
+  {
+    "name": "Tax compliance and management",
+    "category": "Automation"
   },
   {
     "name": "Expandable with modules for quotes, orders, webshops, and logistics",
     "category": "Misc"
   },
   {
+    "name": "Accountant access",
+    "category": "Misc"
+  },
+  {
+    "name": "Smart automation reduces errors and increases efficiency",
+    "category": "Automation"
+  },
+  {
     "name": "Invoicing",
     "category": "Misc"
+  },
+  {
+    "name": "Mobile receipt scanning and document recognition",
+    "category": "Mobile"
+  },
+  {
+    "name": "Banking integration",
+    "category": "Payment"
+  },
+  {
+    "name": "Subscription billing management",
+    "category": "Payment"
+  },
+  {
+    "name": "Inventory management",
+    "category": "Workflow"
+  },
+  {
+    "name": "Multi-company and multi-currency support",
+    "category": "Security"
   },
   {
     "name": "Cash flow analytics",
     "category": "Reporting"
   },
   {
-    "name": "Fraud prevention and vendor verification",
+    "name": "Online bookkeeping tailored for freelancers and small businesses",
+    "category": "Automation"
+  },
+  {
+    "name": "Digital storage of invoices and receipts",
+    "category": "Payment"
+  },
+  {
+    "name": "Business payment account",
     "category": "Misc"
   },
   {
-    "name": "Integrated mailbox",
-    "category": "Automation"
+    "name": "Subscription management",
+    "category": "Misc"
+  },
+  {
+    "name": "Product management",
+    "category": "Misc"
+  },
+  {
+    "name": "Time tracking",
+    "category": "Workflow"
+  },
+  {
+    "name": "Customizable workflows",
+    "category": "Workflow"
+  },
+  {
+    "name": "Financial reporting and analytics",
+    "category": "Reporting & Analytics"
   },
   {
     "name": "Integration with e-commerce platforms and payment providers",
     "category": "Payment"
   },
   {
-    "name": "Payment processing integration",
+    "name": "Payment monitoring",
     "category": "Payment"
-  },
-  {
-    "name": "Inventory management",
-    "category": "Workflow"
   },
   {
     "name": "Late fee calculations",
@@ -104,80 +164,12 @@
     "category": "Misc"
   },
   {
-    "name": "Mobile receipt scanning and document recognition",
-    "category": "Mobile"
-  },
-  {
-    "name": "Multi-channel communication for invoice follow-ups",
-    "category": "Payment"
-  },
-  {
-    "name": "Multi-company and multi-currency support",
-    "category": "Security"
-  },
-  {
     "name": "Multi-user access with role-based permissions",
     "category": "Misc"
   },
   {
-    "name": "Notes and task lists",
-    "category": "Workflow"
-  },
-  {
-    "name": "Online payment methods",
-    "category": "Payment"
-  },
-  {
-    "name": "Online bookkeeping tailored for freelancers and small businesses",
-    "category": "Automation"
-  },
-  {
-    "name": "Automated invoicing",
-    "category": "Payment"
-  },
-  {
-    "name": "Payment monitoring",
-    "category": "Payment"
-  },
-  {
-    "name": "Product management",
-    "category": "Misc"
-  },
-  {
-    "name": "Real-time financial dashboard",
+    "name": "Customizable dashboards and analytics",
     "category": "Reporting"
-  },
-  {
-    "name": "Scanned receipts directly in the accounting system",
-    "category": "Accounting"
-  },
-  {
-    "name": "Accountant access",
-    "category": "Misc"
-  },
-  {
-    "name": "Secure customer portal with payment options",
-    "category": "Payment"
-  },
-  {
-    "name": "Smart automation reduces errors and increases efficiency",
-    "category": "Automation"
-  },
-  {
-    "name": "Smart payment plan",
-    "category": "Payment"
-  },
-  {
-    "name": "Subscription billing management",
-    "category": "Payment"
-  },
-  {
-    "name": "Time tracking",
-    "category": "Workflow"
-  },
-  {
-    "name": "Business payment account",
-    "category": "Misc"
   },
   {
     "name": "Real-time customer support",
@@ -232,14 +224,6 @@
     "category": "Procurement"
   },
   {
-    "name": "Financial reporting and analytics",
-    "category": "Reporting & Analytics"
-  },
-  {
-    "name": "Quotes",
-    "category": "Sales"
-  },
-  {
     "name": "Manage Xero contacts",
     "category": "CRM"
   },
@@ -268,19 +252,71 @@
     "category": "Accounting"
   },
   {
+    "name": "Smart categorisation",
+    "category": "Automation"
+  },
+  {
+    "name": "Accounts receivable automation",
+    "category": "Automation"
+  },
+  {
+    "name": "AI-powered cash application",
+    "category": "Automation"
+  },
+  {
+    "name": "Collections management",
+    "category": "Payment"
+  },
+  {
+    "name": "eCommerce integration",
+    "category": "Integration"
+  },
+  {
+    "name": "Accounts payable automation",
+    "category": "Automation"
+  },
+  {
+    "name": "Two-way accounting system sync",
+    "category": "Integration"
+  },
+  {
+    "name": "Secure payment approvals",
+    "category": "Security"
+  },
+  {
+    "name": "Automated audit trails",
+    "category": "Security"
+  },
+  {
+    "name": "AI-powered reconciliation",
+    "category": "Automation"
+  },
+  {
+    "name": "Secure B2B payments network",
+    "category": "Payment"
+  },
+  {
+    "name": "Fraud prevention and vendor verification",
+    "category": "Misc"
+  },
+  {
+    "name": "Modular accounting",
+    "category": "Accounting"
+  },
+  {
+    "name": "POS system compatibility",
+    "category": "Integration"
+  },
+  {
+    "name": "Digitalized credit committees with validation workflow",
+    "category": "Workflow"
+  },
+  {
     "name": "Radar",
     "category": "Business Insights"
   },
   {
     "name": "Estimates",
     "category": "Accounting"
-  },
-  {
-    "name": "Smart categorisation",
-    "category": "Automation"
-  },
-  {
-    "name": "Customizable workflows",
-    "category": "Workflow"
   }
 ]
