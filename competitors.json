@@ -50,9 +50,9 @@
     ],
     "features": [
       "Automated payment reminder system",
-      "Online payment processing",
+      "Payment processing integration",
       "Secure customer portal with payment options",
-      "Dispute management tools",
+      "Dispute management",
       "Integrated mailbox",
       "Various payment methods",
       "Real-time financial dashboard and insights"
@@ -109,7 +109,7 @@
     ],
     "features": [
       "Automated payment reminder system",
-      "Credit risk dashboard",
+      "Credit management features",
       "Custom reminders",
       "Debt recovery support"
     ],
@@ -171,7 +171,7 @@
       "Dialogue through invoice portal",
       "Various payment methods",
       "Smart payment plan",
-      "Electronic invoicing",
+      "Automated invoicing",
       "Notes and task lists"
     ],
     "erps": [
@@ -217,14 +217,14 @@
     ],
     "features": [
       "Unlimited booking of purchase and sales invoices",
-      "Easy creation and sending of (e-)invoices",
+      "Automated invoicing",
       "Creation and sending of recurring invoices",
       "Real-time financial dashboard and insights",
       "Scanned receipts directly in the accounting system",
-      "VAT declaration automatically prepared for submission",
+      "Automatic VAT calculation and submission",
       "24/7 availability with secure access to key business figures",
       "Expandable with modules for quotes, orders, webshops, and logistics",
-      "Seamless collaboration with an accountant in one online environment",
+      "Collaboration with accountants",
       "Smart automation reduces errors and increases efficiency"
     ],
     "erps": [
@@ -273,17 +273,17 @@
     ],
     "features": [
       "Unlimited online invoicing and quotations",
-      "Easy creation of invoices, including VAT-reversed invoices",
-      "Automatic VAT declaration calculation and submission",
-      "Scan and recognize receipts via app",
+      "Automated invoicing",
+      "Automatic VAT calculation and submission",
+      "Mobile receipt scanning and document recognition",
       "Real-time financial dashboard and insights",
-      "Payment reminders and dunning management",
-      "Seamless collaboration with accountants",
-      "Integration with various banks for automated transaction processing",
-      "Subscription billing and installment invoicing",
-      "Inventory management and order processing",
+      "Automated payment reminder system",
+      "Collaboration with accountants",
+      "Automated bank integration and reconciliation",
+      "Subscription billing management",
+      "Inventory management",
       "Multi-currency invoicing and international tax compliance",
-      "Financial reports and analysis tools"
+      "Financial analytics and forecasting"
     ],
     "erps": [
       "Exact Online",
@@ -342,14 +342,14 @@
     ],
     "features": [
       "Online bookkeeping tailored for freelancers and small businesses",
-      "Easy invoice creation with customizable branding",
+      "Automated invoicing",
       "Automatic VAT calculation and submission",
-      "Bank transaction import and reconciliation",
-      "Mobile app for receipt scanning and financial management",
+      "Automated bank integration and reconciliation",
+      "Mobile receipt scanning and document recognition",
       "Automated payment reminder system",
-      "Time tracking and mileage registration for invoicing",
+      "Time tracking and mileage registration",
       "Digital storage of invoices and receipts",
-      "Secure collaboration with accountants",
+      "Collaboration with accountants",
       "Payment processing integration",
       "Real-time financial dashboard and insights"
     ],
@@ -386,7 +386,7 @@
     "features": [
       "Facturen en offertes",
       "Online betaalmethoden",
-      "Automatische btw-aangifte",
+      "Automatic VAT calculation and submission",
       "Banktransacties koppelen",
       "Zakelijke betaalrekening",
       "Abonnementenbeheer",
@@ -409,14 +409,14 @@
     "website": "e-Boekhouden.nl",
     "subscriptionModels": [],
     "features": [
-      "Online bookkeeping and invoicing",
-      "Automatic bank transaction matching",
-      "Direct VAT submission to the tax authority",
-      "Integration with banks, webshops, and POS systems",
-      "Accountant collaboration features",
-      "Mobile app with receipt scanning",
-      "Automated invoice processing",
-      "Financial reporting and dashboards"
+      "Online bookkeeping tailored for freelancers and small businesses",
+      "Automated bank integration and reconciliation",
+      "Automatic VAT calculation and submission",
+      "Integration with e-commerce platforms and payment providers",
+      "Collaboration with accountants",
+      "Mobile receipt scanning and document recognition",
+      "Automated invoicing",
+      "Financial analytics and forecasting"
     ],
     "erps": [],
     "leadMagnets": []
@@ -428,7 +428,7 @@
     "website": "",
     "subscriptionModels": [],
     "features": [
-      "Automated debt recovery",
+      "Automated debt collection",
       "Payment monitoring",
       "Late fee calculations",
       "Legal proceedings assistance"
@@ -470,13 +470,13 @@
     "features": [
       "Automated bookkeeping and invoicing",
       "Real-time financial dashboard and insights",
-      "Seamless bank integrations for transaction processing",
+      "Automated bank integration and reconciliation",
       "Multi-user access with role-based permissions",
-      "AI-powered receipt and document recognition",
+      "Mobile receipt scanning and document recognition",
       "Tax compliance tools including VAT and ICP declarations",
       "Payment processing integration",
       "Customizable dashboards and analytics",
-      "Subscription and recurring billing management",
+      "Subscription billing management",
       "Multi-company accounting in one platform"
     ],
     "erps": [
@@ -524,16 +524,16 @@
     ],
     "features": [
       "Automated debt collection",
-      "Credit management optimization",
+      "Credit management features",
       "360° predictive account management",
       "Automated payment reminder system",
       "Real-time customer support",
       "Order-to-cash process optimization",
       "Real-time financial dashboard and insights",
       "Secure customer portal with payment options",
-      "Online payment platform",
-      "Electronic invoice and document dematerialization",
-      "Dispute tracking and resolution",
+      "Payment processing integration",
+      "Automated invoicing",
+      "Dispute management",
       "Customizable workflows"
     ],
     "erps": [
@@ -577,7 +577,7 @@
       }
     ],
     "features": [
-      "Credit risk management",
+      "Credit management features",
       "Automated payment reminder system",
       "Dispute management",
       "Debt collection tracking",
@@ -613,7 +613,7 @@
       "Modular accounting",
       "POS system compatibility",
       "Tax report automation",
-      "Bank reconciliation"
+      "Automated bank integration and reconciliation"
     ],
     "erps": [
       "Bestand",
@@ -628,10 +628,10 @@
     "website": "",
     "subscriptionModels": [],
     "features": [
-      "AI-driven credit management",
-      "Real-time analytics",
-      "Debt collection automation",
-      "Automated credit risk assessment"
+      "Credit management features",
+      "Financial analytics and forecasting",
+      "Automated debt collection",
+      "Credit management features"
     ],
     "erps": [],
     "leadMagnets": []
@@ -645,12 +645,12 @@
     "features": [
       "API integration for data synchronization",
       "Automated payment reminder system",
-      "Risk analysis and credit policy management",
-      "Dispute tracking and resolution",
+      "Credit management features",
+      "Dispute management",
       "Customizable workflows",
       "Digitalized credit committees with validation workflow",
-      "Financial analytics and reporting",
-      "International debt collection with multilingual support",
+      "Financial analytics and forecasting",
+      "Automated debt collection",
       "Secure customer portal with payment options"
     ],
     "erps": [],
@@ -664,15 +664,15 @@
     "subscriptionModels": [],
     "features": [
       "Accounts receivable automation",
-      "Credit decision automation",
+      "Credit management features",
       "AI-powered cash application",
       "Automated invoicing",
-      "Multi-channel payment processing",
+      "Payment processing integration",
       "Collections management",
       "eCommerce integration",
-      "Real-time financial insights",
+      "Financial analytics and forecasting",
       "Customizable workflows",
-      "Digitalized dispute management"
+      "Dispute management"
     ],
     "erps": [
       "SAP",
@@ -691,13 +691,13 @@
     "features": [
       "Accounts payable automation",
       "Accounts receivable automation",
-      "Expense management",
-      "Cash flow forecasting",
-      "Multi-currency and international payments",
-      "Digital invoice processing",
+      "Expense management and tracking",
+      "Financial analytics and forecasting",
+      "Multi-currency invoicing and international tax compliance",
+      "Automated invoicing",
       "Two-way accounting system sync",
       "Secure payment approvals",
-      "Credit line management",
+      "Credit management features",
       "Automated audit trails"
     ],
     "erps": [
@@ -707,7 +707,7 @@
       "Xero",
       "Oracle NetSuite",
       "Sage Intacct",
-      "Microsoft Dynamics"
+      "Microsoft Dynamics 365"
     ],
     "leadMagnets": []
   },
@@ -720,12 +720,12 @@
     "features": [
       "Accounts receivable automation",
       "AI-powered reconciliation",
-      "Automated invoicing and collections",
+      "Automated invoicing",
       "Secure B2B payments network",
-      "Cash flow forecasting",
+      "Financial analytics and forecasting",
       "Customizable workflows",
       "Fraud prevention and vendor verification",
-      "Subscription billing support",
+      "Subscription billing management",
       "Payment processing integration"
     ],
     "erps": [
@@ -744,12 +744,12 @@
     "subscriptionModels": [],
     "features": [
       "Accounts receivable automation",
-      "Cash flow forecasting",
+      "Financial analytics and forecasting",
       "Automated payment reminder system",
       "Secure customer portal with payment options",
-      "Multi-currency and multi-language support",
-      "Financial analytics and reporting",
-      "Dispute resolution tracking",
+      "Multi-company, multi-language, multi-currency support",
+      "Financial analytics and forecasting",
+      "Dispute management",
       "Customizable workflows",
       "Integration with existing accounting software"
     ],
@@ -803,17 +803,17 @@
     ],
     "features": [
       "All-in-one, paperless record keeping",
-      "Automated bank transaction reconciliation",
+      "Automated bank integration and reconciliation",
       "Automated payment reminder system",
-      "Smart data and insights (trend analysis, customizable reporting)",
+      "Financial analytics and forecasting",
       "Automatic data capture with Hubdoc",
-      "Online invoicing",
+      "Automated invoicing",
       "Accept payments online",
       "Inventory management",
-      "Payroll (via Gusto integration)",
-      "Expense management",
+      "Payroll",
+      "Expense management and tracking",
       "Bank connections (with over 21,000 institutions)",
-      "Bank reconciliation",
+      "Automated bank integration and reconciliation",
       "Pay bills",
       "Track projects",
       "Purchase orders",
@@ -839,7 +839,6 @@
       "Accounting Glossary"
     ]
   },
-  
   {
     "id": "freeagent001",
     "name": "FreeAgent",
@@ -870,23 +869,23 @@
     ],
     "features": [
       "Invoicing",
-    "Expense Tracking",
-    "Time Tracking",
-    "Banking",
-    "Self Assessment",
-    "VAT",
-    "Payroll",
-    "Dashboard",
-    "Mobile app",
-    "Radar",
-    "Estimates",
-    "Smart Capture",
-    "Projects",
-    "End-of-year filing",
-    "Tax Timeline",
-    "Smart categorisation",
-    "Cashflow forecast",
-    "One-click payments"
+      "Expense management and tracking",
+      "Time tracking and mileage registration",
+      "Banking",
+      "Self Assessment",
+      "VAT",
+      "Payroll",
+      "Dashboard",
+      "Mobile app",
+      "Radar",
+      "Estimates",
+      "Smart Capture",
+      "Projects",
+      "End-of-year filing",
+      "Tax Timeline",
+      "Smart categorisation",
+      "Financial analytics and forecasting",
+      "One-click payments"
     ],
     "erps": [
       "BrightTax",
@@ -900,7 +899,7 @@
       "Zapier",
       "Tyl by NatWest",
       "Stripe",
-      "Adsum’s InstantVAT",
+      "Adsum's InstantVAT",
       "Billsby",
       "GoCardless",
       "Mimo",

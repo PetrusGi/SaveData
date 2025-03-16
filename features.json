@@ -12,14 +12,6 @@
     "category": "Automation"
   },
   {
-    "name": "AI-powered receipt and document recognition",
-    "category": "Automation"
-  },
-  {
-    "name": "AI-powered reconciliation",
-    "category": "Automation"
-  },
-  {
     "name": "Abonnementenbeheer",
     "category": "Misc"
   },
@@ -40,15 +32,11 @@
     "category": "Automation"
   },
   {
-    "name": "Automatic VAT declaration calculation and submission",
+    "name": "Automatic VAT calculation and submission",
     "category": "Automation"
   },
   {
-    "name": "Automatische btw-aangifte",
-    "category": "Automation"
-  },
-  {
-    "name": "Bank transaction import and reconciliation",
+    "name": "Automated bank integration and reconciliation",
     "category": "Payment"
   },
   {
@@ -68,8 +56,8 @@
     "category": "Automation"
   },
   {
-    "name": "Credit risk dashboard",
-    "category": "Reporting"
+    "name": "Credit management features",
+    "category": "Misc"
   },
   {
     "name": "Custom reminders",
@@ -96,23 +84,7 @@
     "category": "Payment"
   },
   {
-    "name": "Dispute management tools",
-    "category": "Misc"
-  },
-  {
-    "name": "Dispute resolution tracking",
-    "category": "Workflow"
-  },
-  {
-    "name": "Easy creation and sending of (e-)invoices",
-    "category": "Payment"
-  },
-  {
-    "name": "Easy invoice creation with customizable branding",
-    "category": "Payment"
-  },
-  {
-    "name": "Electronic invoicing",
+    "name": "Dispute management",
     "category": "Misc"
   },
   {
@@ -124,7 +96,7 @@
     "category": "Misc"
   },
   {
-    "name": "Financial reports and analysis tools",
+    "name": "Financial analytics and forecasting",
     "category": "Reporting"
   },
   {
@@ -148,11 +120,7 @@
     "category": "Payment"
   },
   {
-    "name": "Integration with various banks for automated transaction processing",
-    "category": "Automation"
-  },
-  {
-    "name": "Inventory management and order processing",
+    "name": "Inventory management",
     "category": "Workflow"
   },
   {
@@ -164,7 +132,7 @@
     "category": "Misc"
   },
   {
-    "name": "Mobile app for receipt scanning and financial management",
+    "name": "Mobile receipt scanning and document recognition",
     "category": "Mobile"
   },
   {
@@ -192,15 +160,11 @@
     "category": "Automation"
   },
   {
-    "name": "Online payment processing",
+    "name": "Automated invoicing",
     "category": "Payment"
   },
   {
     "name": "Payment monitoring",
-    "category": "Payment"
-  },
-  {
-    "name": "Payment reminders and dunning management",
     "category": "Payment"
   },
   {
@@ -220,28 +184,16 @@
     "category": "Misc"
   },
   {
-    "name": "Scan and recognize receipts via app",
-    "category": "Mobile"
-  },
-  {
     "name": "Scanned receipts directly in the accounting system",
     "category": "Accounting"
   },
   {
-    "name": "Seamless bank integrations for transaction processing",
-    "category": "Payment"
-  },
-  {
-    "name": "Seamless collaboration with an accountant in one online environment",
+    "name": "Collaboration with accountants",
     "category": "Misc"
   },
   {
     "name": "Secure customer portal with payment options",
     "category": "Payment"
-  },
-  {
-    "name": "Secure collaboration with accountants",
-    "category": "Misc"
   },
   {
     "name": "Smart automation reduces errors and increases efficiency",
@@ -252,11 +204,7 @@
     "category": "Payment"
   },
   {
-    "name": "Subscription billing and installment invoicing",
-    "category": "Payment"
-  },
-  {
-    "name": "Subscription billing support",
+    "name": "Subscription billing management",
     "category": "Payment"
   },
   {
@@ -264,7 +212,7 @@
     "category": "Security"
   },
   {
-    "name": "Time tracking and mileage registration for invoicing",
+    "name": "Time tracking and mileage registration",
     "category": "Workflow"
   },
   {
@@ -284,10 +232,6 @@
     "category": "Misc"
   },
   {
-    "name": "VAT declaration automatically prepared for submission",
-    "category": "Automation"
-  },
-  {
     "name": "Various payment methods",
     "category": "Payment"
   },
@@ -300,40 +244,12 @@
     "category": "Misc"
   },
   {
-    "name": "Credit risk management",
-    "category": "Misc"
-  },
-  {
     "name": "Real-time customer support",
     "category": "Customer"
   },
   {
     "name": "Order-to-cash process optimization",
     "category": "Payment"
-  },
-  {
-    "name": "Online payment platform",
-    "category": "Payment"
-  },
-  {
-    "name": "Electronic invoice and document dematerialization",
-    "category": "Payment"
-  },
-  {
-    "name": "Dispute tracking and resolution",
-    "category": "Workflow"
-  },
-  {
-    "name": "Customizable workflows",
-    "category": "Workflow"
-  },
-  {
-    "name": "Automatic VAT calculation and submission",
-    "category": "Automation"
-  },
-  {
-    "name": "Dispute management",
-    "category": "Misc"
   },
   {
     "name": "Debt collection tracking",
@@ -364,44 +280,20 @@
     "category": "Accounting"
   },
   {
-    "name": "Automated bank transaction reconciliation",
-    "category": "Automation"
-  },
-  {
-    "name": "Smart data and insights (trend analysis, customizable reporting)",
-    "category": "Reporting & Analytics"
-  },
-  {
     "name": "Automatic data capture with Hubdoc",
     "category": "Automation"
-  },
-  {
-    "name": "Online invoicing",
-    "category": "Invoicing"
   },
   {
     "name": "Accept payments online",
     "category": "Payment"
   },
   {
-    "name": "Inventory management",
-    "category": "Inventory"
-  },
-  {
-    "name": "Payroll (via Gusto integration)",
-    "category": "HR & Payroll"
-  },
-  {
-    "name": "Expense management",
+    "name": "Expense management and tracking",
     "category": "Expense Management"
   },
   {
     "name": "Bank connections (with over 21,000 institutions)",
     "category": "Integration"
-  },
-  {
-    "name": "Bank reconciliation",
-    "category": "Accounting"
   },
   {
     "name": "Pay bills",
@@ -457,14 +349,6 @@
   },
   {
     "name": "Invoicing",
-    "category": "Accounting"
-  },
-  {
-    "name": "Expense Tracking",
-    "category": "Accounting"
-  },
-  {
-    "name": "Time Tracking",
     "category": "Accounting"
   },
   {
@@ -528,19 +412,15 @@
     "category": "Payment"
   },
   {
-    "name": "Credit management optimization",
-    "category": "Misc"
-  },
-  {
     "name": "360° predictive account management",
     "category": "Misc"
   },
   {
-    "name": "Subscription and recurring billing management",
-    "category": "Payment"
-  },
-  {
     "name": "Multi-company accounting in one platform",
     "category": "Accounting"
+  },
+  {
+    "name": "Customizable workflows",
+    "category": "Workflow"
   }
 ]
