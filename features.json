@@ -551,79 +551,96 @@
     "name": "Xero Accounting app (mobile)",
     "category": "Mobile Access"
   },
-[
-  {
-    "name": "Invoicing",
-    "category": "Accounting"
-  },
-  {
-    "name": "Expense Tracking",
-    "category": "Accounting"
-  },
-  {
-    "name": "Time Tracking",
-    "category": "Accounting"
-  },
-  {
-    "name": "Banking",
-    "category": "Accounting"
-  },
-  {
-    "name": "Self Assessment",
-    "category": "Tax"
-  },
-  {
-    "name": "VAT",
-    "category": "Tax"
-  },
-  {
-    "name": "Payroll",
-    "category": "Payroll"
-  },
-  {
-    "name": "Dashboard",
-    "category": "Business Insights"
-  },
-  {
-    "name": "Mobile app",
-    "category": "Mobile"
-  },
-  {
-    "name": "Radar",
-    "category": "Business Insights"
-  },
-  {
-    "name": "Estimates",
-    "category": "Accounting"
-  },
-  {
-    "name": "Smart Capture",
-    "category": "Automation"
-  },
-  {
-    "name": "Projects",
-    "category": "Project Management"
-  },
-  {
-    "name": "End-of-year filing",
-    "category": "Tax"
-  },
-  {
-    "name": "Tax Timeline",
-    "category": "Tax"
-  },
-  {
-    "name": "Smart categorisation",
-    "category": "Automation"
-  },
-  {
-    "name": "Cashflow forecast",
-    "category": "Reporting"
-  },
-  {
-    "name": "One-click payments",
-    "category": "Payment"
-  }
-]
-
+  [
+    {
+      "name": "Invoicing",
+      "category": "Accounting"
+    },
+    {
+      "name": "Expense Tracking",
+      "category": "Accounting"
+    },
+    {
+      "name": "Time Tracking",
+      "category": "Accounting"
+    },
+    {
+      "name": "Banking",
+      "category": "Accounting"
+    },
+    {
+      "name": "Self Assessment",
+      "category": "Tax"
+    },
+    {
+      "name": "VAT",
+      "category": "Tax"
+    },
+    {
+      "name": "Payroll",
+      "category": "Payroll"
+    },
+    {
+      "name": "Dashboard",
+      "category": "Business Insights"
+    },
+    {
+      "name": "Mobile app",
+      "category": "Mobile"
+    },
+    {
+      "name": "Radar",
+      "category": "Business Insights"
+    },
+    {
+      "name": "Estimates",
+      "category": "Accounting"
+    },
+    {
+      "name": "Smart Capture",
+      "category": "Automation"
+    },
+    {
+      "name": "Projects",
+      "category": "Project Management"
+    },
+    {
+      "name": "End-of-year filing",
+      "category": "Tax"
+    },
+    {
+      "name": "Tax Timeline",
+      "category": "Tax"
+    },
+    {
+      "name": "Smart categorisation",
+      "category": "Automation"
+    },
+    {
+      "name": "Cashflow forecast",
+      "category": "Reporting"
+    },
+    {
+      "name": "One-click payments",
+      "category": "Payment"
+    }
+  ],
+  "Invoicing",
+  "Expense Tracking",
+  "Time Tracking",
+  "Banking",
+  "Self Assessment",
+  "VAT",
+  "Payroll",
+  "Dashboard",
+  "Mobile app",
+  "Radar",
+  "Estimates",
+  "Smart Capture",
+  "Projects",
+  "End-of-year filing",
+  "Tax Timeline",
+  "Smart categorisation",
+  "Cashflow forecast",
+  "One-click payments"
 ]
