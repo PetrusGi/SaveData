@@ -918,29 +918,5 @@
       "ROI Calculator",
       "Accounting Calendar"
     ]
-  },
-  {
-    "id": "m8bxb8rjd6f7nup04q",
-    "name": "Chaserk",
-    "country": "AU",
-    "website": "https://payt.au",
-    "subscriptionModels": [
-      {
-        "name": "np",
-        "currentPrice": 1,
-        "currentPriceDate": "2025-03-16",
-        "invoiceFrequency": "monthly",
-        "notes": "1"
-      }
-    ],
-    "features": [
-      "Automated payment reminder system"
-    ],
-    "erps": [
-      "AFAS"
-    ],
-    "leadMagnets": [
-      "ROI Calculator"
-    ]
   }
 ]
