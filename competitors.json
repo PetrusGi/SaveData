@@ -792,7 +792,7 @@
         "invoiceFrequency": "monthly",
         "notes": "Enter unlimited bills, reconcile bank transactions, capture bills and receipts with Hubdoc, short-term cash flow and business snapshot, W-9 + 1099 management, sales tax, use multiple currencies, track projects, claim expenses, advanced cash flow predictions with Analytics Plus. Inventory Plus available as an optional add-on. 90% off the first 6 months."
       },
-       {
+      {
         "name": "Ultimate",
         "currentPrice": 59,
         "currentPriceDate": "2025-03-16",
@@ -846,46 +846,46 @@
     "website": "https://www.freeagent.com",
     "subscriptionModels": [
       {
-        "name": "Billed monthly",
+        "name": "BilledMonthly",
         "currentPrice": 33,
-        "currentPriceDate": "2025-03-17",
+        "currentPriceDate": "2025-03-16",
         "invoiceFrequency": "monthly",
         "notes": "50% off for the first six months. Regular price is 33/month."
       },
       {
-        "name": "Billed annually",
+        "name": "BilledAnnually",
         "currentPrice": 330,
-        "currentPriceDate": "2025-03-17",
+        "currentPriceDate": "2025-03-16",
         "invoiceFrequency": "annually",
         "notes": "50% off for the first year. Regular price is 330/year (equivalent to 27.5/month)."
       },
       {
         "name": "Free",
         "currentPrice": 0,
-        "currentPriceDate": "2025-03-17",
+        "currentPriceDate": "2025-03-16",
         "invoiceFrequency": "monthly",
         "notes": "Available if you have a qualifying business current account with NatWest, Royal Bank of Scotland, Ulster Bank, or Mettle."
       }
     ],
     "features": [
       "Invoicing",
-    "Expense Tracking",
-    "Time Tracking",
-    "Banking",
-    "Self Assessment",
-    "VAT",
-    "Payroll",
-    "Dashboard",
-    "Mobile app",
-    "Radar",
-    "Estimates",
-    "Smart Capture",
-    "Projects",
-    "End-of-year filing",
-    "Tax Timeline",
-    "Smart categorisation",
-    "Cashflow forecast",
-    "One-click payments"
+      "Expense Tracking",
+      "Time Tracking",
+      "Banking",
+      "Self Assessment",
+      "VAT",
+      "Payroll",
+      "Dashboard",
+      "Mobile app",
+      "Radar",
+      "Estimates",
+      "Smart Capture",
+      "Projects",
+      "End-of-year filing",
+      "Tax Timeline",
+      "Smart categorisation",
+      "Cashflow forecast",
+      "One-click payments"
     ],
     "erps": [
       "BrightTax",
