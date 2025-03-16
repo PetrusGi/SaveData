@@ -444,7 +444,7 @@
       {
         "name": "SME",
         "currentPrice": 245,
-        "currentPriceDate": "2025-03-07",
+        "currentPriceDate": "2025-03-16",
         "oldPrice": 145,
         "invoiceAmount": 1000,
         "invoiceFrequency": "monthly",
@@ -453,7 +453,7 @@
       {
         "name": "SME+",
         "currentPrice": 545,
-        "currentPriceDate": "2025-03-07",
+        "currentPriceDate": "2025-03-16",
         "oldPrice": 245,
         "invoiceFrequency": "monthly",
         "notes": "Invoice Amount used to be 2000, before that 500"
@@ -461,13 +461,12 @@
       {
         "name": "ETI",
         "currentPrice": 745,
-        "currentPriceDate": "2025-03-07",
+        "currentPriceDate": "2025-03-16",
         "invoiceFrequency": "monthly",
         "notes": "Invoice Amount used to be 5000, before that 1000"
       }
     ],
     "features": [
-      "Automated bookkeeping and invoicing",
       "Real-time financial dashboard",
       "Banking integration",
       "Multi-user access with role-based permissions",
@@ -476,7 +475,8 @@
       "Payment processing integration",
       "Customizable dashboards and analytics",
       "Subscription billing management",
-      "Multi-company and multi-currency support"
+      "Multi-company and multi-currency support",
+      "Automated invoicing"
     ],
     "erps": [
       "Sage 100",
