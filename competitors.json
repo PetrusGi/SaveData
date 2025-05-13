@@ -648,7 +648,14 @@
       "Automated payment reminder system"
     ],
     "erps": [],
-    "leadMagnets": []
+    "leadMagnets": [
+      "Webinars",
+      "Customer Stories",
+      "Interactive Tools",
+      "Templates",
+      "Guides",
+      "Whitepaper"
+    ]
   },
   {
     "id": "kwote001",
