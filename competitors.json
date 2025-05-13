@@ -620,45 +620,21 @@
     "leadMagnets": []
   },
   {
-    "id": "Hiver001",
-    "name": "Hiver",
-    "country": "US",
-    "website": "https://hiverhq.com/",
-    "subscriptionModels": [
-      {
-        "name": "Lite",
-        "currentPrice": 19,
-        "currentPriceDate": "2025-05-13",
-        "invoiceFrequency": "monthly"
-      },
-      {
-        "name": "Pro",
-        "currentPrice": 49,
-        "currentPriceDate": "2025-05-13",
-        "invoiceFrequency": "monthly"
-      },
-      {
-        "name": "Elite",
-        "currentPrice": 79,
-        "currentPriceDate": "2025-05-13",
-        "invoiceFrequency": "monthly"
-      }
-    ],
+    "id": "creditiq001",
+    "name": "Credit-IQ",
+    "country": "UK",
+    "website": "",
+    "subscriptionModels": [],
     "features": [
-      "Automated payment reminder system"
+      "Credit management features",
+      "Cash flow analytics",
+      "Debt collection and recovery",
+      "Real-time financial dashboard",
+      "Customizable workflows"
+      
     ],
-    "erps": [
-      "Zapier",
-      "QuickBooks"
-    ],
-    "leadMagnets": [
-      "Webinars",
-      "Customer Stories",
-      "Interactive Tools",
-      "Templates",
-      "Guides",
-      "Whitepaper"
-    ]
+    "erps": [],
+    "leadMagnets": []
   },
   {
     "id": "kwote001",
