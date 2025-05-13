@@ -647,7 +647,10 @@
     "features": [
       "Automated payment reminder system"
     ],
-    "erps": [],
+    "erps": [
+      "Zapier",
+      "QuickBooks"
+    ],
     "leadMagnets": [
       "Webinars",
       "Customer Stories",
