@@ -623,7 +623,7 @@
     "id": "creditiq001",
     "name": "Credit-IQ",
     "country": "UK",
-    "website": "",
+    "website": "https://www.credit-iq.com",
     "subscriptionModels": [],
     "features": [
       "Credit management features",
@@ -631,7 +631,6 @@
       "Debt collection and recovery",
       "Real-time financial dashboard",
       "Customizable workflows"
-      
     ],
     "erps": [],
     "leadMagnets": []
