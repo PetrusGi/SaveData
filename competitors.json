@@ -1,9 +1,9 @@
 [
   {
-    "id": "notify001",
+    "id": "notify",
     "name": "Notify",
     "country": "NL",
-    "website": "https://notify.nl",
+    "website": "https://www.notify.nl",
     "subscriptionModels": [
       {
         "name": "Small",
@@ -75,10 +75,10 @@
     ]
   },
   {
-    "id": "chaser001",
+    "id": "chaser",
     "name": "Chaser",
     "country": "UK",
-    "website": "https://chaser.io",
+    "website": "https://www.chaser.io",
     "subscriptionModels": [
       {
         "name": "Basic",
@@ -133,10 +133,10 @@
     ]
   },
   {
-    "id": "payt002",
+    "id": "payt",
     "name": "Payt",
     "country": "NL",
-    "website": "https://paytsoftware.nl",
+    "website": "https://www.paytsoftware.nl",
     "subscriptionModels": [
       {
         "name": "Starter",
@@ -185,10 +185,10 @@
     "leadMagnets": []
   },
   {
-    "id": "visma001",
+    "id": "visma",
     "name": "Visma eAccounting",
     "country": "NL",
-    "website": "https://nl.visma.com/eaccounting",
+    "website": "https://www.nl.visma.com/eaccounting",
     "subscriptionModels": [
       {
         "name": "Invoicing",
@@ -236,7 +236,7 @@
     "leadMagnets": []
   },
   {
-    "id": "snelstart001",
+    "id": "snelstart",
     "name": "SnelStart",
     "country": "NL",
     "website": "https://www.snelstart.nl",
@@ -299,10 +299,10 @@
     "leadMagnets": []
   },
   {
-    "id": "rompslomp001",
+    "id": "rompslomp",
     "name": "Rompslomp",
     "country": "NL",
-    "website": "",
+    "website": "https://www.rompslomp.nl",
     "subscriptionModels": [
       {
         "name": "Free",
@@ -356,10 +356,10 @@
     "leadMagnets": []
   },
   {
-    "id": "moneybird001",
+    "id": "moneybird",
     "name": "Moneybird",
     "country": "NL",
-    "website": "",
+    "website": "https://www.moneybird.com",
     "subscriptionModels": [
       {
         "name": "1",
@@ -402,10 +402,10 @@
     "leadMagnets": []
   },
   {
-    "id": "eboekhouden001",
+    "id": "e-boekhouden",
     "name": "E-boekhouden",
     "country": "NL",
-    "website": "e-Boekhouden.nl",
+    "website": "https://www.e-boekhouden.nl",
     "subscriptionModels": [],
     "features": [
       "Online bookkeeping tailored for freelancers and small businesses",
@@ -421,10 +421,10 @@
     "leadMagnets": []
   },
   {
-    "id": "recouvup001",
+    "id": "recouv'up",
     "name": "Recouv'Up",
     "country": "FR",
-    "website": "",
+    "website": "https://www.recouvup.fr",
     "subscriptionModels": [],
     "features": [
       "Debt collection and recovery",
@@ -436,10 +436,10 @@
     "leadMagnets": []
   },
   {
-    "id": "leanpay001",
+    "id": "leanpay",
     "name": "LeanPay",
     "country": "FR",
-    "website": "",
+    "website": "https://www.leanpay.fr",
     "subscriptionModels": [
       {
         "name": "SME",
@@ -502,10 +502,10 @@
     "leadMagnets": []
   },
   {
-    "id": "astoniTF001",
+    "id": "aston",
     "name": "Aston iTF",
     "country": "FR",
-    "website": "",
+    "website": "https://www.aston.com",
     "subscriptionModels": [
       {
         "name": "SME",
@@ -562,10 +562,10 @@
     "leadMagnets": []
   },
   {
-    "id": "hoopiz001",
+    "id": "hoopiz",
     "name": "Hoopiz",
     "country": "FR",
-    "website": "",
+    "website": "https://www.hoopiz.fr",
     "subscriptionModels": [
       {
         "name": "Custom",
@@ -602,10 +602,10 @@
     "leadMagnets": []
   },
   {
-    "id": "reeleezee001",
+    "id": "reeleezee",
     "name": "Reeleezee",
     "country": "NL",
-    "website": "",
+    "website": "https://www.exact.com",
     "subscriptionModels": [],
     "features": [
       "Modular accounting",
@@ -620,7 +620,7 @@
     "leadMagnets": []
   },
   {
-    "id": "creditiq001",
+    "id": "credit-iq",
     "name": "Credit-IQ",
     "country": "UK",
     "website": "https://www.credit-iq.com",
@@ -633,15 +633,13 @@
       "Customizable workflows"
     ],
     "erps": [],
-    "leadMagnets": [
-      "Free Trial"
-    ]
+    "leadMagnets": []
   },
   {
-    "id": "kwote001",
+    "id": "kwote",
     "name": "Kwote",
     "country": "FR",
-    "website": "",
+    "website": "https://www.kwote.fr",
     "subscriptionModels": [],
     "features": [
       "Real-time financial dashboard",
@@ -658,10 +656,10 @@
     "leadMagnets": []
   },
   {
-    "id": "billtrust001",
+    "id": "billtrust",
     "name": "Billtrust",
     "country": "US",
-    "website": "",
+    "website": "https://www.billtrust.com",
     "subscriptionModels": [],
     "features": [
       "Accounts receivable automation",
@@ -685,10 +683,10 @@
     "leadMagnets": []
   },
   {
-    "id": "bill001",
+    "id": "bill",
     "name": "Bill",
     "country": "US",
-    "website": "https://bill.com",
+    "website": "https://www.bill.com",
     "subscriptionModels": [],
     "features": [
       "Accounts payable automation",
@@ -714,10 +712,10 @@
     "leadMagnets": []
   },
   {
-    "id": "invoiced001",
+    "id": "invoiced",
     "name": "Invoiced",
     "country": "US",
-    "website": "",
+    "website": "https://www.invoiced.fr",
     "subscriptionModels": [],
     "features": [
       "Accounts receivable automation",
@@ -739,7 +737,7 @@
     "leadMagnets": []
   },
   {
-    "id": "upflow001",
+    "id": "upflow",
     "name": "Upflow",
     "country": "FR",
     "website": "https://www.upflow.com",
@@ -762,7 +760,7 @@
     "leadMagnets": []
   },
   {
-    "id": "xero001",
+    "id": "xero",
     "name": "Xero",
     "country": "NZ",
     "website": "https://www.xero.com/",
@@ -835,7 +833,7 @@
     ]
   },
   {
-    "id": "freeagent001",
+    "id": "freeagent",
     "name": "FreeAgent",
     "country": "UK",
     "website": "https://www.freeagent.com",
