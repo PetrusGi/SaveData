@@ -291,20 +291,89 @@
     "name": "Digitalized credit committees with validation workflow",
     "category": "Workflow"
   },
-  "Credit management features",
-  "Cash flow analytics",
-  "Debt collection and recovery",
-  "Real-time financial dashboard",
-  "Customizable workflows",
-  "Automated payment reminder system",
-  "Secure customer portal with payment options",
-  "Multi-company and multi-currency support",
-  "Dispute management",
-  "Accounts payable automation",
-  "Accounts receivable automation",
-  "Expense management and tracking",
-  "Automated invoicing",
-  "Two-way accounting system sync",
-  "Secure payment approvals",
-  "Automated audit trails"
+  {
+    "id": "feature_mclbzpo7x",
+    "name": "Credit management features",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_69efkzp7c",
+    "name": "Cash flow analytics",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_tgcr86t76",
+    "name": "Debt collection and recovery",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_c0mmim0e8",
+    "name": "Real-time financial dashboard",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_lyzj0ywue",
+    "name": "Customizable workflows",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_ggdatw5q1",
+    "name": "Automated payment reminder system",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_zdeozozgi",
+    "name": "Secure customer portal with payment options",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_phj2tqt9z",
+    "name": "Multi-company and multi-currency support",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_oqnp2r4xe",
+    "name": "Dispute management",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_ovukmd326",
+    "name": "Accounts payable automation",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_p9me5l90j",
+    "name": "Accounts receivable automation",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_9uytipn4n",
+    "name": "Expense management and tracking",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_o1lyrermd",
+    "name": "Automated invoicing",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_6dknq4v8h",
+    "name": "Two-way accounting system sync",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_ailwkzvur",
+    "name": "Secure payment approvals",
+    "category": "Misc"
+  },
+  {
+    "id": "feature_bixjcyb8t",
+    "name": "Automated audit trails",
+    "category": "Misc"
+  },
+  {
+    "id": "mavpyop37vuwg",
+    "name": "aw",
+    "category": "CRM"
+  }
 ]
