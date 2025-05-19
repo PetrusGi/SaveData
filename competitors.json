@@ -76,23 +76,61 @@
   },
   {
     "id": "chaser",
-    "name": "test",
-    "country": "nl",
-    "website": "https:\\\\www.test.nl",
+    "name": "Chaser",
+    "country": "UK",
+    "website": "https://www.chaser.io",
     "subscriptionModels": [
       {
-        "name": "1",
-        "currentPrice": 1,
-        "currentPriceDate": "2025-05-19",
-        "oldPrice": 1,
-        "invoiceAmount": 1,
+        "name": "Basic",
+        "currentPrice": 45,
+        "currentPriceDate": "2025-03-08",
+        "oldPrice": 47,
+        "oldPriceDate": "2025-02-01",
         "invoiceFrequency": "monthly",
-        "notes": "1"
+        "notes": "Removed invoice limit of 50."
+      },
+      {
+        "name": "Standard",
+        "currentPrice": 117,
+        "currentPriceDate": "2025-03-08",
+        "oldPriceDate": "2025-02-01",
+        "invoiceFrequency": "monthly",
+        "notes": "Removed invoice limit of 150."
+      },
+      {
+        "name": "Enterprice",
+        "currentPrice": 432,
+        "currentPriceDate": "2025-03-08",
+        "oldPrice": 357,
+        "oldPriceDate": "2025-03-01",
+        "invoiceFrequency": "monthly",
+        "notes": "Removed invoice limit of 400."
       }
     ],
-    "features": [],
-    "erps": [],
-    "leadMagnets": []
+    "features": [
+      "Automated payment reminder system",
+      "Credit management features",
+      "Custom reminders",
+      "Debt collection and recovery"
+    ],
+    "erps": [
+      "QuickBooks",
+      "Sage intacct",
+      "Sage Accounting",
+      "Sage 50 UK",
+      "Sage 200",
+      "Chaser API",
+      "SAP",
+      "Microsoft Dynamics 365",
+      "AccountsIQ",
+      "Xero"
+    ],
+    "leadMagnets": [
+      "ROI Calculator",
+      "Whitepaper",
+      "Free Trial",
+      "Templates"
+    ]
   },
   {
     "id": "payt",
