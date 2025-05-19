@@ -90,7 +90,9 @@
         "notes": "1"
       }
     ],
-    "features": [],
+    "features": [
+      "aw"
+    ],
     "erps": [],
     "leadMagnets": []
   },
