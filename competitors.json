@@ -931,17 +931,37 @@
     "name": "Apxium",
     "country": "UK",
     "website": "https://www.apxium.com/",
-    "subscriptionModels": [],
+    "subscriptionModels": [
+      {
+        "name": "Cloud",
+        "currentPrice": 200,
+        "currentPriceDate": "2025-05-20",
+        "invoiceAmount": 0,
+        "invoiceFrequency": "monthly",
+        "notes": "Competitive merchant service fees (Visa & Mastercard): 1.10% + $0.25 excl. GST per transaction  \nElectronic client engagement system: $0.50 excl. GST per client payment  \nA completely automated receivables management system with your firm's branding  \nSecure online payment gateway  \nPaperless direct debit  \nDirect debit from invoice  \nBranded client communications, including unlimited SMS reminders and emails  \nAuto payment receipting  \nCustomer dashboard  \nPaperless debt funding solution"
+      },
+      {
+        "name": "Server",
+        "currentPrice": 350,
+        "currentPriceDate": "2025-05-20",
+        "invoiceAmount": 0,
+        "invoiceFrequency": "monthly",
+        "notes": "Competitive merchant service fees (Visa & Mastercard) 1.00% + $0.25 excl. GST per transaction Electronic client engagement system $0.50 excl. GST per client payment A completely automated receivables management system with your firm's branding Secure online payment gateway Paperless direct debit Direct debit from invoice Branded client communications, including unlimited SMS reminders and emails Auto payment receipting Customer dashboard Paperless debt funding solution"
+      }
+    ],
     "features": [
       "Automated invoicing",
       "Payment processing integration",
       "Secure customer portal with payment options",
       "Real-time financial dashboard",
-      "Automated payment reminder system",
-      "Dispute management"
+      "Automated payment reminder system"
     ],
-    "erps": [],
-    "leadMagnets": []
+    "erps": [
+      "Xero"
+    ],
+    "leadMagnets": [
+      "Demo"
+    ]
   },
   {
     "id": "blackline",
