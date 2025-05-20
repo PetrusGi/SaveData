@@ -1,374 +1,387 @@
 [
   {
+    "id": "feature_1",
     "name": "Automated payment reminder system",
     "category": "Automation"
   },
   {
+    "id": "feature_2",
     "name": "Payment processing integration",
     "category": "Payment"
   },
   {
+    "id": "feature_3",
     "name": "Secure customer portal with payment options",
-    "category": "Payment"
+    "category": "Customer"
   },
   {
+    "id": "feature_4",
     "name": "Dispute management",
-    "category": "Misc"
+    "category": "Management"
   },
   {
+    "id": "feature_5",
     "name": "Integrated mailbox",
-    "category": "Automation"
+    "category": "Integration"
   },
   {
+    "id": "feature_6",
     "name": "Online payment methods",
     "category": "Payment"
   },
   {
+    "id": "feature_7",
     "name": "Real-time financial dashboard",
-    "category": "Reporting"
+    "category": "Reporting & Analytics"
   },
   {
+    "id": "feature_8",
     "name": "Credit management features",
-    "category": "Misc"
+    "category": "Management"
   },
   {
+    "id": "feature_9",
     "name": "Custom reminders",
-    "category": "Customer"
-  },
-  {
-    "name": "Debt collection and recovery",
     "category": "Automation"
   },
   {
+    "id": "feature_10",
+    "name": "Debt collection and recovery",
+    "category": "Management"
+  },
+  {
+    "id": "feature_11",
     "name": "Automated follow-up",
     "category": "Automation"
   },
   {
+    "id": "feature_12",
     "name": "Dialogue through invoice portal",
-    "category": "Payment"
+    "category": "Customer"
   },
   {
+    "id": "feature_13",
     "name": "Smart payment plan",
     "category": "Payment"
   },
   {
+    "id": "feature_14",
     "name": "Automated invoicing",
-    "category": "Payment"
+    "category": "Automation"
   },
   {
+    "id": "feature_15",
     "name": "Notes and task lists",
-    "category": "Workflow"
+    "category": "Productivity"
   },
   {
+    "id": "feature_16",
     "name": "Unlimited booking of purchase and sales invoices",
-    "category": "Payment"
+    "category": "Accounting"
   },
   {
+    "id": "feature_17",
     "name": "Creation and sending of recurring invoices",
-    "category": "Payment"
+    "category": "Automation"
   },
   {
+    "id": "feature_18",
     "name": "Scanned receipts directly in the accounting system",
     "category": "Accounting"
   },
   {
+    "id": "feature_19",
     "name": "Tax compliance and management",
-    "category": "Automation"
+    "category": "Compliance"
   },
   {
+    "id": "feature_20",
     "name": "Expandable with modules for quotes, orders, webshops, and logistics",
-    "category": "Misc"
+    "category": "Integration"
   },
   {
+    "id": "feature_21",
     "name": "Accountant access",
-    "category": "Misc"
+    "category": "Accounting"
   },
   {
+    "id": "feature_22",
     "name": "Smart automation reduces errors and increases efficiency",
     "category": "Automation"
   },
   {
+    "id": "feature_23",
     "name": "Invoicing",
-    "category": "Misc"
+    "category": "Accounting"
   },
   {
+    "id": "feature_24",
     "name": "Mobile receipt scanning and document recognition",
     "category": "Mobile"
   },
   {
+    "id": "feature_25",
     "name": "Banking integration",
-    "category": "Payment"
+    "category": "Integration"
   },
   {
+    "id": "feature_26",
     "name": "Subscription billing management",
-    "category": "Payment"
+    "category": "Management"
   },
   {
+    "id": "feature_27",
     "name": "Inventory management",
-    "category": "Workflow"
+    "category": "Management"
   },
   {
+    "id": "feature_28",
     "name": "Multi-company and multi-currency support",
-    "category": "Security"
+    "category": "Accounting"
   },
   {
+    "id": "feature_29",
     "name": "Cash flow analytics",
-    "category": "Reporting"
+    "category": "Reporting & Analytics"
   },
   {
+    "id": "feature_30",
     "name": "Online bookkeeping tailored for freelancers and small businesses",
-    "category": "Automation"
+    "category": "Accounting"
   },
   {
+    "id": "feature_31",
     "name": "Digital storage of invoices and receipts",
+    "category": "Accounting"
+  },
+  {
+    "id": "feature_32",
+    "name": "Business payment account",
     "category": "Payment"
   },
   {
-    "name": "Business payment account",
-    "category": "Misc"
-  },
-  {
+    "id": "feature_33",
     "name": "Subscription management",
-    "category": "Misc"
+    "category": "Management"
   },
   {
+    "id": "feature_34",
     "name": "Product management",
-    "category": "Misc"
+    "category": "Management"
   },
   {
+    "id": "feature_35",
     "name": "Time tracking",
-    "category": "Workflow"
+    "category": "Productivity"
   },
   {
+    "id": "feature_36",
     "name": "Customizable workflows",
     "category": "Workflow"
   },
   {
+    "id": "feature_37",
     "name": "Financial reporting and analytics",
     "category": "Reporting & Analytics"
   },
   {
+    "id": "feature_38",
     "name": "Integration with e-commerce platforms and payment providers",
-    "category": "Payment"
+    "category": "Integration"
   },
   {
+    "id": "feature_39",
     "name": "Payment monitoring",
     "category": "Payment"
   },
   {
+    "id": "feature_40",
     "name": "Late fee calculations",
-    "category": "Misc"
+    "category": "Payment"
   },
   {
+    "id": "feature_41",
     "name": "Legal proceedings assistance",
-    "category": "Misc"
+    "category": "Management"
   },
   {
+    "id": "feature_42",
     "name": "Multi-user access with role-based permissions",
-    "category": "Misc"
+    "category": "Security"
   },
   {
+    "id": "feature_43",
     "name": "Customizable dashboards and analytics",
-    "category": "Reporting"
+    "category": "Reporting & Analytics"
   },
   {
+    "id": "feature_44",
     "name": "Real-time customer support",
     "category": "Customer"
   },
   {
+    "id": "feature_45",
     "name": "Order-to-cash process optimization",
-    "category": "Payment"
+    "category": "Workflow"
   },
   {
+    "id": "feature_46",
     "name": "Digitalized litigation process",
     "category": "Workflow"
   },
   {
+    "id": "feature_47",
     "name": "AI-based risk evaluation",
     "category": "Automation"
   },
   {
+    "id": "feature_48",
     "name": "Automated alerts and notifications",
     "category": "Automation"
   },
   {
+    "id": "feature_49",
     "name": "Integration with financial services",
     "category": "Integration"
   },
   {
+    "id": "feature_50",
     "name": "All-in-one, paperless record keeping",
     "category": "Accounting"
   },
   {
+    "id": "feature_51",
     "name": "Data capture",
     "category": "Automation"
   },
   {
-    "name": "Expense management and tracking",
-    "category": "Expense Management"
+    "id": "feature_52",
+    "name": "Bank connections (with over 21,000 institutions)",
+    "category": "Integration"
   },
   {
+    "id": "feature_53",
+    "name": "Pay bills",
+    "category": "Payment"
+  },
+  {
+    "id": "feature_54",
     "name": "Purchase orders",
     "category": "Procurement"
   },
   {
+    "id": "feature_55",
     "name": "Manage Xero contacts",
     "category": "CRM"
   },
   {
+    "id": "feature_56",
     "name": "Sales tax automation (via Avalara integration)",
     "category": "Compliance"
   },
   {
+    "id": "feature_57",
     "name": "Online file storage",
     "category": "Productivity"
   },
   {
-    "name": "Manage fixed assets",
-    "category": "Asset Management"
+    "id": "feature_58",
+    "name": "Accounting dashboard",
+    "category": "Accounting"
   },
   {
+    "id": "feature_59",
     "name": "Mobile application",
     "category": "Mobile"
   },
   {
+    "id": "feature_60",
+    "name": "Banking",
+    "category": "Accounting"
+  },
+  {
+    "id": "feature_61",
     "name": "Smart categorisation",
     "category": "Automation"
   },
   {
+    "id": "feature_62",
     "name": "Accounts receivable automation",
     "category": "Automation"
   },
   {
+    "id": "feature_63",
     "name": "AI-powered cash application",
     "category": "Automation"
   },
   {
+    "id": "feature_64",
     "name": "Collections management",
-    "category": "Payment"
+    "category": "Management"
   },
   {
+    "id": "feature_65",
     "name": "eCommerce integration",
     "category": "Integration"
   },
   {
+    "id": "feature_66",
     "name": "Accounts payable automation",
     "category": "Automation"
   },
   {
+    "id": "feature_67",
     "name": "Two-way accounting system sync",
     "category": "Integration"
   },
   {
+    "id": "feature_68",
     "name": "Secure payment approvals",
     "category": "Security"
   },
   {
+    "id": "feature_69",
     "name": "Automated audit trails",
     "category": "Security"
   },
   {
+    "id": "feature_70",
     "name": "AI-powered reconciliation",
     "category": "Automation"
   },
   {
+    "id": "feature_71",
     "name": "Secure B2B payments network",
     "category": "Payment"
   },
   {
+    "id": "feature_72",
     "name": "Fraud prevention and vendor verification",
-    "category": "Misc"
+    "category": "Security"
   },
   {
+    "id": "feature_73",
     "name": "Modular accounting",
     "category": "Accounting"
   },
   {
+    "id": "feature_74",
     "name": "POS system compatibility",
     "category": "Integration"
   },
   {
+    "id": "feature_75",
     "name": "Digitalized credit committees with validation workflow",
     "category": "Workflow"
   },
   {
-    "id": "feature_mclbzpo7x",
-    "name": "Credit management features",
-    "category": "Misc"
+    "id": "feature_76",
+    "name": "Radar",
+    "category": "Business Insights"
   },
   {
-    "id": "feature_69efkzp7c",
-    "name": "Cash flow analytics",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_tgcr86t76",
-    "name": "Debt collection and recovery",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_c0mmim0e8",
-    "name": "Real-time financial dashboard",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_lyzj0ywue",
-    "name": "Customizable workflows",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_ggdatw5q1",
-    "name": "Automated payment reminder system",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_zdeozozgi",
-    "name": "Secure customer portal with payment options",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_phj2tqt9z",
-    "name": "Multi-company and multi-currency support",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_oqnp2r4xe",
-    "name": "Dispute management",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_ovukmd326",
-    "name": "Accounts payable automation",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_p9me5l90j",
-    "name": "Accounts receivable automation",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_9uytipn4n",
-    "name": "Expense management and tracking",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_o1lyrermd",
-    "name": "Automated invoicing",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_6dknq4v8h",
-    "name": "Two-way accounting system sync",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_ailwkzvur",
-    "name": "Secure payment approvals",
-    "category": "Misc"
-  },
-  {
-    "id": "feature_bixjcyb8t",
-    "name": "Automated audit trails",
-    "category": "Misc"
+    "id": "feature_77",
+    "name": "Estimates",
+    "category": "Accounting"
   }
 ]
