@@ -255,11 +255,6 @@
     "category": "Automation"
   },
   {
-    "id": "feature_52",
-    "name": "Bank connections (with over 21,000 institutions)",
-    "category": "Integration"
-  },
-  {
     "id": "feature_53",
     "name": "Pay bills",
     "category": "Payment"
