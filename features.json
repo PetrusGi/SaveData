@@ -80,11 +80,6 @@
     "category": "Compliance"
   },
   {
-    "id": "feature_20",
-    "name": "Modules for quotes, orders, webshops, and logistics",
-    "category": "Integration"
-  },
-  {
     "id": "feature_21",
     "name": "Accountant access",
     "category": "Accounting"
