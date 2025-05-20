@@ -170,7 +170,6 @@
       "Automated follow-up",
       "Dialogue through invoice portal",
       "Online payment methods",
-      "Smart payment plan",
       "Automated invoicing",
       "Notes and task lists"
     ],
@@ -216,15 +215,10 @@
       }
     ],
     "features": [
-      "Unlimited booking of purchase and sales invoices",
       "Automated invoicing",
-      "Creation and sending of recurring invoices",
       "Real-time financial dashboard",
-      "Scanned receipts directly in the accounting system",
       "Tax compliance and management",
-      "Expandable with modules for quotes, orders, webshops, and logistics",
-      "Accountant access",
-      "Smart automation reduces errors and increases efficiency"
+      "Accountant access"
     ],
     "erps": [
       "Visma eAccounting",
@@ -271,10 +265,8 @@
       }
     ],
     "features": [
-      "Invoicing",
       "Automated invoicing",
       "Tax compliance and management",
-      "Mobile receipt scanning and document recognition",
       "Real-time financial dashboard",
       "Automated payment reminder system",
       "Accountant access",
@@ -340,11 +332,9 @@
       }
     ],
     "features": [
-      "Online bookkeeping tailored for freelancers and small businesses",
       "Automated invoicing",
       "Tax compliance and management",
       "Banking integration",
-      "Mobile receipt scanning and document recognition",
       "Automated payment reminder system",
       "Time tracking",
       "Digital storage of invoices and receipts",
@@ -383,7 +373,6 @@
       }
     ],
     "features": [
-      "Invoicing",
       "Online payment methods",
       "Tax compliance and management",
       "Banking integration",
@@ -407,12 +396,10 @@
     "website": "e-Boekhouden.nl",
     "subscriptionModels": [],
     "features": [
-      "Online bookkeeping tailored for freelancers and small businesses",
       "Banking integration",
       "Tax compliance and management",
       "Integration with e-commerce platforms and payment providers",
       "Accountant access",
-      "Mobile receipt scanning and document recognition",
       "Automated invoicing",
       "Cash flow analytics"
     ],
@@ -469,7 +456,6 @@
       "Real-time financial dashboard",
       "Banking integration",
       "Multi-user access with role-based permissions",
-      "Mobile receipt scanning and document recognition",
       "Tax compliance and management",
       "Payment processing integration",
       "Customizable dashboards and analytics",
@@ -607,8 +593,6 @@
     "website": "",
     "subscriptionModels": [],
     "features": [
-      "Modular accounting",
-      "POS system compatibility",
       "Tax compliance and management",
       "Banking integration"
     ],
@@ -646,7 +630,6 @@
       "Credit management features",
       "Dispute management",
       "Customizable workflows",
-      "Digitalized credit committees with validation workflow",
       "Cash flow analytics",
       "Debt collection and recovery",
       "Secure customer portal with payment options"
@@ -661,7 +644,6 @@
     "website": "",
     "subscriptionModels": [],
     "features": [
-      "Accounts receivable automation",
       "Credit management features",
       "AI-powered cash application",
       "Automated invoicing",
@@ -689,12 +671,9 @@
     "subscriptionModels": [],
     "features": [
       "Accounts payable automation",
-      "Accounts receivable automation",
-      "Expense management and tracking",
       "Cash flow analytics",
       "Multi-company and multi-currency support",
       "Automated invoicing",
-      "Two-way accounting system sync",
       "Secure payment approvals",
       "Credit management features",
       "Automated audit trails"
@@ -717,13 +696,10 @@
     "website": "",
     "subscriptionModels": [],
     "features": [
-      "Accounts receivable automation",
       "AI-powered reconciliation",
       "Automated invoicing",
-      "Secure B2B payments network",
       "Cash flow analytics",
       "Customizable workflows",
-      "Fraud prevention and vendor verification",
       "Subscription billing management",
       "Payment processing integration"
     ],
@@ -807,16 +783,12 @@
       "Automated invoicing",
       "Online payment methods",
       "Inventory management",
-      "Expense management and tracking",
       "Payment processing integration",
-      "Purchase orders",
       "Financial reporting and analytics",
       "Multi-company and multi-currency support",
-      "Manage Xero contacts",
       "Sales tax automation (via Avalara integration)",
       "Online file storage",
       "Real-time financial dashboard",
-      "Manage fixed assets",
       "Mobile application"
     ],
     "erps": [
@@ -860,7 +832,6 @@
     ],
     "features": [
       "Automated invoicing",
-      "Expense management and tracking",
       "Time tracking",
       "Banking integration",
       "Tax compliance and management",
@@ -947,8 +918,10 @@
     "features": [
       "Credit management features",
       "Automated payment reminder system",
+      "Dispute management",
       "Debt collection and recovery",
-      "Real-time financial dashboard"
+      "Real-time financial dashboard",
+      "Secure customer portal with payment options"
     ],
     "erps": [],
     "leadMagnets": []
@@ -968,10 +941,7 @@
       "Dispute management"
     ],
     "erps": [],
-    "leadMagnets": [
-      "Video",
-      "News"
-    ]
+    "leadMagnets": []
   },
   {
     "id": "blackline",
@@ -980,7 +950,6 @@
     "website": "https://www.blackline.com/",
     "subscriptionModels": [],
     "features": [
-      "Accounts receivable automation",
       "Credit management features",
       "AI-powered cash application",
       "Dispute management",
