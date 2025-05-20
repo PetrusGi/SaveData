@@ -411,7 +411,12 @@
     "name": "Recouv'Up",
     "country": "FR",
     "website": "",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Debt collection and recovery",
       "Payment monitoring",
@@ -591,7 +596,12 @@
     "name": "Reeleezee",
     "country": "NL",
     "website": "",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Tax compliance and management",
       "Banking integration"
@@ -621,8 +631,13 @@
     "id": "kwote001",
     "name": "Kwote",
     "country": "FR",
-    "website": "",
-    "subscriptionModels": [],
+    "website": "https://www.kwote.fr",
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Real-time financial dashboard",
       "Automated payment reminder system",
@@ -641,7 +656,12 @@
     "name": "Billtrust",
     "country": "US",
     "website": "",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Credit management features",
       "AI-powered cash application",
@@ -667,7 +687,12 @@
     "name": "Bill",
     "country": "US",
     "website": "",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Accounts payable automation",
       "Cash flow analytics",
@@ -693,7 +718,12 @@
     "name": "Invoiced",
     "country": "US",
     "website": "",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "AI-powered reconciliation",
       "Automated invoicing",
@@ -715,7 +745,12 @@
     "name": "Upflow",
     "country": "FR",
     "website": "",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Real-time financial dashboard",
       "Cash flow analytics",
@@ -892,7 +927,12 @@
     "name": "Aryza Dunning",
     "country": "NL",
     "website": "https://www.aryza.com/nl_EN/products/aryza-dunning/",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Real-time financial dashboard",
       "Customizable workflows",
@@ -913,7 +953,12 @@
     "name": "Xolv",
     "country": "NL",
     "website": "https://www.xolv.nl/en/credit-management-software/",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Credit management features",
       "Automated payment reminder system",
@@ -930,7 +975,12 @@
     "name": "Apxium",
     "country": "UK",
     "website": "https://www.apxium.com/",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Automated invoicing",
       "Payment processing integration",
@@ -947,7 +997,12 @@
     "name": "BlackLine",
     "country": "US",
     "website": "https://www.blackline.com/",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Credit management features",
       "AI-powered cash application",
@@ -980,7 +1035,12 @@
     "name": "CollectOnline",
     "country": "BE",
     "website": "https://collectonline.eu/en/",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Customizable workflows",
       "Real-time financial dashboard"
@@ -995,7 +1055,12 @@
     "name": "Clearnox",
     "country": "FR",
     "website": "https://clearnox.com/en/",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Payment monitoring",
       "Cash flow analytics"
@@ -1011,7 +1076,12 @@
     "name": "Receeve",
     "country": "DE",
     "website": "https://www.receeve.com/",
-    "subscriptionModels": [],
+    "subscriptionModels": [{
+        "name": "Custom",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
+        "invoiceFrequency": "monthly"
+      }],
     "features": [
       "Customizable workflows",
       "Real-time financial dashboard"
