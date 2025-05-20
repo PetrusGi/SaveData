@@ -554,8 +554,8 @@
     "subscriptionModels": [
       {
         "name": "Custom",
-        "currentPrice": 0,
-        "currentPriceDate": "2025-03-07",
+        "currentPrice": "-",
+        "currentPriceDate": "2025-05-20",
         "invoiceFrequency": "monthly"
       }
     ],
