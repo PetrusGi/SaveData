@@ -392,7 +392,6 @@
       "Product management",
       "Time tracking",
       "Customizable workflows",
-      "Invoicing",
       "Accountant access",
       "Financial reporting and analytics"
     ],
@@ -631,7 +630,6 @@
       "Debt collection and recovery",
       "Real-time financial dashboard",
       "Customizable workflows"
-      
     ],
     "erps": [],
     "leadMagnets": []
@@ -810,7 +808,6 @@
       "Online payment methods",
       "Inventory management",
       "Expense management and tracking",
-      "Banking integration",
       "Payment processing integration",
       "Purchase orders",
       "Financial reporting and analytics",
@@ -918,30 +915,8 @@
       "VAT Calculator",
       "ROI Calculator",
       "Accounting Calendar"
-    ],
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    ]
+  },
   {
     "id": "aryza-dunning",
     "name": "Aryza Dunning",
@@ -949,19 +924,18 @@
     "website": "https://www.aryza.com/nl_EN/products/aryza-dunning/",
     "subscriptionModels": [],
     "features": [
-      "Automated dunning processes",
       "Real-time financial dashboard",
-      "Debtor segmentation",
       "Customizable workflows",
       "Dispute management",
-      "Debt collection and recovery"
-      "Credit management"
-
+      "Debt collection and recovery",
+      "Credit management features"
     ],
     "erps": [],
     "leadMagnets": [
       "Brochure",
-      "Case Study", "News","Video"
+      "Case Study",
+      "News",
+      "Video"
     ]
   },
   {
@@ -1032,16 +1006,14 @@
     "erps": [],
     "leadMagnets": []
   },
-{
+  {
     "id": "collectonline",
     "name": "CollectOnline",
     "country": "BE",
     "website": "https://collectonline.eu/en/",
     "subscriptionModels": [],
     "features": [
-      "Automated debtor follow-up",
       "Customizable workflows",
-      "Integrated communication tools",
       "Real-time financial dashboard"
     ],
     "erps": [],
@@ -1056,8 +1028,6 @@
     "website": "https://clearnox.com/en/",
     "subscriptionModels": [],
     "features": [
-      "Invoice tracking",
-      "Automated reminders",
       "Payment monitoring",
       "Cash flow analytics"
     ],
@@ -1074,8 +1044,6 @@
     "website": "https://www.receeve.com/",
     "subscriptionModels": [],
     "features": [
-      "Debt collection automation",
-      "AI-driven insights",
       "Customizable workflows",
       "Real-time financial dashboard"
     ],
@@ -1086,13 +1054,12 @@
     ]
   },
   {
-    "id": "aryza-dunning",
+    "id": "aryza-dunning-de",
     "name": "Aryza Dunning",
     "country": "DE",
     "website": "https://www.aryza.com/nl_EN/products/aryza-dunning/",
     "subscriptionModels": [],
     "features": [
-      "Automated payment reminders",
       "Dispute management",
       "Real-time financial dashboard",
       "Cash flow analytics"
@@ -1109,9 +1076,6 @@
     "website": "https://ginimachine.com/risk-management/",
     "subscriptionModels": [],
     "features": [
-      "Credit risk analysis",
-      "AI-powered scoring",
-      "Debt collection prioritization",
       "Customizable workflows"
     ],
     "erps": [],
@@ -1119,30 +1083,5 @@
       "Free Trial",
       "Case Study"
     ]
-  }
-]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   }
 ]
