@@ -75,11 +75,6 @@
     "category": "Productivity"
   },
   {
-    "id": "feature_18",
-    "name": "Scanned receipts directly in the accounting system",
-    "category": "Accounting"
-  },
-  {
     "id": "feature_19",
     "name": "Tax compliance and management",
     "category": "Compliance"
@@ -279,7 +274,6 @@
     "name": "Accounts payable automation",
     "category": "Automation"
   },
-
   {
     "id": "feature_68",
     "name": "Secure payment approvals",
@@ -299,5 +293,5 @@
     "id": "feature_72",
     "name": "Fraud prevention / vendor verification",
     "category": "Security"
-  },
+  }
 ]
