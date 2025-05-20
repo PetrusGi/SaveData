@@ -71,7 +71,7 @@
     ],
     "leadMagnets": [
       "Case Study",
-      "Webinar"
+      "Webinars"
     ]
   },
   {
@@ -115,7 +115,7 @@
     ],
     "erps": [
       "QuickBooks",
-      "Sage intacct",
+      "Sage Intacct",
       "Sage Accounting",
       "Sage 50 UK",
       "Sage 200",
@@ -597,8 +597,7 @@
       "Banking integration"
     ],
     "erps": [
-      "Bestand",
-      "API"
+      "Bestand of API"
     ],
     "leadMagnets": []
   },
@@ -931,37 +930,17 @@
     "name": "Apxium",
     "country": "UK",
     "website": "https://www.apxium.com/",
-    "subscriptionModels": [
-      {
-        "name": "Cloud",
-        "currentPrice": 200,
-        "currentPriceDate": "2025-05-20",
-        "invoiceAmount": 0,
-        "invoiceFrequency": "monthly",
-        "notes": "Competitive merchant service fees (Visa & Mastercard): 1.10% + $0.25 excl. GST per transaction  \nElectronic client engagement system: $0.50 excl. GST per client payment  \nA completely automated receivables management system with your firm's branding  \nSecure online payment gateway  \nPaperless direct debit  \nDirect debit from invoice  \nBranded client communications, including unlimited SMS reminders and emails  \nAuto payment receipting  \nCustomer dashboard  \nPaperless debt funding solution"
-      },
-      {
-        "name": "Server",
-        "currentPrice": 350,
-        "currentPriceDate": "2025-05-20",
-        "invoiceAmount": 0,
-        "invoiceFrequency": "monthly",
-        "notes": "Competitive merchant service fees (Visa & Mastercard) 1.00% + $0.25 excl. GST per transaction Electronic client engagement system $0.50 excl. GST per client payment A completely automated receivables management system with your firm's branding Secure online payment gateway Paperless direct debit Direct debit from invoice Branded client communications, including unlimited SMS reminders and emails Auto payment receipting Customer dashboard Paperless debt funding solution"
-      }
-    ],
+    "subscriptionModels": [],
     "features": [
       "Automated invoicing",
       "Payment processing integration",
       "Secure customer portal with payment options",
       "Real-time financial dashboard",
-      "Automated payment reminder system"
+      "Automated payment reminder system",
+      "Dispute management"
     ],
-    "erps": [
-      "Xero"
-    ],
-    "leadMagnets": [
-      "Demo"
-    ]
+    "erps": [],
+    "leadMagnets": []
   },
   {
     "id": "blackline",
@@ -1072,6 +1051,131 @@
     "leadMagnets": [
       "Free Trial",
       "Case Study"
+    ]
+  },
+  {
+    "id": "esker-uk",
+    "name": "Esker",
+    "country": "UK",
+    "website": "https://www.esker.co.uk",
+    "subscriptionModels": [],
+    "features": [
+      "Collections management",
+      "Customizable dashboards and analytics"
+    ],
+    "erps": [],
+    "leadMagnets": [
+      "Webinars",
+      "Customer Stories"
+    ]
+  },
+  {
+    "id": "netsuite-uk",
+    "name": "NetSuite",
+    "country": "UK",
+    "website": "https://www.netsuite.co.uk",
+    "subscriptionModels": [],
+    "features": [
+      "Automated invoicing",
+      "Real-time financial dashboard"
+    ],
+    "erps": [],
+    "leadMagnets": [
+      "Customer Stories",
+      "Guides"
+    ]
+  },
+  {
+    "id": "profit4",
+    "name": "Profit4",
+    "country": "UK",
+    "website": "https://www.ogl.co.uk",
+    "subscriptionModels": [],
+    "features": [
+      "Customizable workflows"
+    ],
+    "erps": [],
+    "leadMagnets": []
+  },
+  {
+    "id": "highradius",
+    "name": "HighRadius",
+    "country": "US",
+    "website": "https://www.highradius.com",
+    "subscriptionModels": [],
+    "features": [
+      "Dispute management"
+    ],
+    "erps": [],
+    "leadMagnets": []
+  },
+  {
+    "id": "serrala",
+    "name": "Serrala",
+    "country": "US",
+    "website": "https://www.serrala.com",
+    "subscriptionModels": [],
+    "features": [
+      "Collections management"
+    ],
+    "erps": [],
+    "leadMagnets": []
+  },
+  {
+    "id": "sap-s4hana",
+    "name": "SAP S/4HANA Cloud",
+    "country": "US",
+    "website": "https://www.sap.com",
+    "subscriptionModels": [],
+    "features": [
+      "Dispute management"
+    ],
+    "erps": [],
+    "leadMagnets": []
+  },
+  {
+    "id": "versapay",
+    "name": "Versapay",
+    "country": "US",
+    "website": "https://www.versapay.com",
+    "subscriptionModels": [],
+    "features": [
+      "Dispute management"
+    ],
+    "erps": [],
+    "leadMagnets": [
+      "Webinars",
+      "Case Studies",
+      "ROI Calculator"
+    ]
+  },
+  {
+    "id": "gaviti",
+    "name": "Gaviti",
+    "country": "US",
+    "website": "https://www.gaviti.com",
+    "subscriptionModels": [],
+    "features": [
+      "Dispute management",
+      "Cash flow analytics"
+    ],
+    "erps": [],
+    "leadMagnets": [
+      "Whitepapers",
+      "Case Studies",
+      "Webinars"
+    ]
+  },
+  {
+    "id": "apideck",
+    "name": "Apideck",
+    "country": "US",
+    "website": "https://www.apideck.com",
+    "subscriptionModels": [],
+    "features": [],
+    "erps": [],
+    "leadMagnets": [
+      "Guides"
     ]
   }
 ]
