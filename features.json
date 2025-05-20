@@ -61,7 +61,7 @@
   },
   {
     "id": "feature_13",
-    "name": "Smart payment plan",
+    "name": "Smart payment plans",
     "category": "Payment"
   },
   {
@@ -75,16 +75,6 @@
     "category": "Productivity"
   },
   {
-    "id": "feature_16",
-    "name": "Unlimited booking of purchase and sales invoices",
-    "category": "Accounting"
-  },
-  {
-    "id": "feature_17",
-    "name": "Creation and sending of recurring invoices",
-    "category": "Automation"
-  },
-  {
     "id": "feature_18",
     "name": "Scanned receipts directly in the accounting system",
     "category": "Accounting"
@@ -96,7 +86,7 @@
   },
   {
     "id": "feature_20",
-    "name": "Expandable with modules for quotes, orders, webshops, and logistics",
+    "name": "Modules for quotes, orders, webshops, and logistics",
     "category": "Integration"
   },
   {
@@ -105,18 +95,8 @@
     "category": "Accounting"
   },
   {
-    "id": "feature_22",
-    "name": "Smart automation reduces errors and increases efficiency",
-    "category": "Automation"
-  },
-  {
-    "id": "feature_23",
-    "name": "Invoicing",
-    "category": "Accounting"
-  },
-  {
     "id": "feature_24",
-    "name": "Mobile receipt scanning and document recognition",
+    "name": "Document scanning",
     "category": "Mobile"
   },
   {
@@ -143,11 +123,6 @@
     "id": "feature_29",
     "name": "Cash flow analytics",
     "category": "Reporting & Analytics"
-  },
-  {
-    "id": "feature_30",
-    "name": "Online bookkeeping tailored for freelancers and small businesses",
-    "category": "Accounting"
   },
   {
     "id": "feature_31",
@@ -255,21 +230,6 @@
     "category": "Automation"
   },
   {
-    "id": "feature_53",
-    "name": "Pay bills",
-    "category": "Payment"
-  },
-  {
-    "id": "feature_54",
-    "name": "Purchase orders",
-    "category": "Procurement"
-  },
-  {
-    "id": "feature_55",
-    "name": "Manage Xero contacts",
-    "category": "CRM"
-  },
-  {
     "id": "feature_56",
     "name": "Sales tax automation (via Avalara integration)",
     "category": "Compliance"
@@ -300,11 +260,6 @@
     "category": "Automation"
   },
   {
-    "id": "feature_62",
-    "name": "Accounts receivable automation",
-    "category": "Automation"
-  },
-  {
     "id": "feature_63",
     "name": "AI-powered cash application",
     "category": "Automation"
@@ -324,11 +279,7 @@
     "name": "Accounts payable automation",
     "category": "Automation"
   },
-  {
-    "id": "feature_67",
-    "name": "Two-way accounting system sync",
-    "category": "Integration"
-  },
+
   {
     "id": "feature_68",
     "name": "Secure payment approvals",
@@ -345,46 +296,8 @@
     "category": "Automation"
   },
   {
-    "id": "feature_71",
-    "name": "Secure B2B payments network",
-    "category": "Payment"
-  },
-  {
     "id": "feature_72",
-    "name": "Fraud prevention and vendor verification",
+    "name": "Fraud prevention / vendor verification",
     "category": "Security"
   },
-  {
-    "id": "feature_73",
-    "name": "Modular accounting",
-    "category": "Accounting"
-  },
-  {
-    "id": "feature_74",
-    "name": "POS system compatibility",
-    "category": "Integration"
-  },
-  {
-    "id": "feature_75",
-    "name": "Digitalized credit committees with validation workflow",
-    "category": "Workflow"
-  },
-  {
-    "id": "feature_76",
-    "name": "Radar",
-    "category": "Business Insights"
-  },
-  {
-    "id": "feature_77",
-    "name": "Estimates",
-    "category": "Accounting"
-  },
-  "Credit management features",
-  "Automated payment reminder system",
-  "Debt collection and recovery",
-  "Real-time financial dashboard",
-  "Automated invoicing",
-  "Payment processing integration",
-  "Secure customer portal with payment options",
-  "Dispute management"
 ]
