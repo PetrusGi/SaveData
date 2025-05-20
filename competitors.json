@@ -1,9 +1,9 @@
 [
   {
-    "id": "notify",
+    "id": "notify001",
     "name": "Notify",
     "country": "NL",
-    "website": "https://www.notify.nl",
+    "website": "https://notify.nl",
     "subscriptionModels": [
       {
         "name": "Small",
@@ -75,10 +75,10 @@
     ]
   },
   {
-    "id": "chaser",
+    "id": "chaser001",
     "name": "Chaser",
     "country": "UK",
-    "website": "https://www.chaser.io",
+    "website": "https://chaser.io",
     "subscriptionModels": [
       {
         "name": "Basic",
@@ -133,10 +133,10 @@
     ]
   },
   {
-    "id": "payt",
+    "id": "payt002",
     "name": "Payt",
     "country": "NL",
-    "website": "https://www.paytsoftware.nl",
+    "website": "https://paytsoftware.nl",
     "subscriptionModels": [
       {
         "name": "Starter",
@@ -185,10 +185,10 @@
     "leadMagnets": []
   },
   {
-    "id": "visma",
+    "id": "visma001",
     "name": "Visma eAccounting",
     "country": "NL",
-    "website": "https://www.nl.visma.com/eaccounting",
+    "website": "https://nl.visma.com/eaccounting",
     "subscriptionModels": [
       {
         "name": "Invoicing",
@@ -236,7 +236,7 @@
     "leadMagnets": []
   },
   {
-    "id": "snelstart",
+    "id": "snelstart001",
     "name": "SnelStart",
     "country": "NL",
     "website": "https://www.snelstart.nl",
@@ -299,10 +299,10 @@
     "leadMagnets": []
   },
   {
-    "id": "rompslomp",
+    "id": "rompslomp001",
     "name": "Rompslomp",
     "country": "NL",
-    "website": "https://www.rompslomp.nl",
+    "website": "",
     "subscriptionModels": [
       {
         "name": "Free",
@@ -356,10 +356,10 @@
     "leadMagnets": []
   },
   {
-    "id": "moneybird",
+    "id": "moneybird001",
     "name": "Moneybird",
     "country": "NL",
-    "website": "https://www.moneybird.com",
+    "website": "",
     "subscriptionModels": [
       {
         "name": "1",
@@ -402,10 +402,10 @@
     "leadMagnets": []
   },
   {
-    "id": "e-boekhouden",
+    "id": "eboekhouden001",
     "name": "E-boekhouden",
     "country": "NL",
-    "website": "https://www.e-boekhouden.nl",
+    "website": "e-Boekhouden.nl",
     "subscriptionModels": [],
     "features": [
       "Online bookkeeping tailored for freelancers and small businesses",
@@ -421,10 +421,10 @@
     "leadMagnets": []
   },
   {
-    "id": "recouv'up",
+    "id": "recouvup001",
     "name": "Recouv'Up",
     "country": "FR",
-    "website": "https://www.recouvup.fr",
+    "website": "",
     "subscriptionModels": [],
     "features": [
       "Debt collection and recovery",
@@ -436,10 +436,10 @@
     "leadMagnets": []
   },
   {
-    "id": "leanpay",
+    "id": "leanpay001",
     "name": "LeanPay",
     "country": "FR",
-    "website": "https://www.leanpay.fr",
+    "website": "",
     "subscriptionModels": [
       {
         "name": "SME",
@@ -502,10 +502,10 @@
     "leadMagnets": []
   },
   {
-    "id": "aston",
+    "id": "astoniTF001",
     "name": "Aston iTF",
     "country": "FR",
-    "website": "https://www.aston.com",
+    "website": "",
     "subscriptionModels": [
       {
         "name": "SME",
@@ -562,10 +562,10 @@
     "leadMagnets": []
   },
   {
-    "id": "hoopiz",
+    "id": "hoopiz001",
     "name": "Hoopiz",
     "country": "FR",
-    "website": "https://www.hoopiz.fr",
+    "website": "",
     "subscriptionModels": [
       {
         "name": "Custom",
@@ -602,10 +602,10 @@
     "leadMagnets": []
   },
   {
-    "id": "reeleezee",
+    "id": "reeleezee001",
     "name": "Reeleezee",
     "country": "NL",
-    "website": "https://www.exact.com",
+    "website": "",
     "subscriptionModels": [],
     "features": [
       "Modular accounting",
@@ -620,25 +620,27 @@
     "leadMagnets": []
   },
   {
-    "id": "credit-iq",
+    "id": "creditiq001",
     "name": "Credit-IQ",
     "country": "UK",
-    "website": "https://www.credit-iq.com",
+    "website": "",
     "subscriptionModels": [],
     "features": [
+      "Credit management features",
       "Cash flow analytics",
       "Debt collection and recovery",
       "Real-time financial dashboard",
       "Customizable workflows"
+      
     ],
     "erps": [],
     "leadMagnets": []
   },
   {
-    "id": "kwote",
+    "id": "kwote001",
     "name": "Kwote",
     "country": "FR",
-    "website": "https://www.kwote.fr",
+    "website": "",
     "subscriptionModels": [],
     "features": [
       "Real-time financial dashboard",
@@ -655,10 +657,10 @@
     "leadMagnets": []
   },
   {
-    "id": "billtrust",
+    "id": "billtrust001",
     "name": "Billtrust",
     "country": "US",
-    "website": "https://www.billtrust.com",
+    "website": "",
     "subscriptionModels": [],
     "features": [
       "Accounts receivable automation",
@@ -682,10 +684,10 @@
     "leadMagnets": []
   },
   {
-    "id": "bill",
+    "id": "bill001",
     "name": "Bill",
     "country": "US",
-    "website": "https://www.bill.com",
+    "website": "",
     "subscriptionModels": [],
     "features": [
       "Accounts payable automation",
@@ -711,10 +713,10 @@
     "leadMagnets": []
   },
   {
-    "id": "invoiced",
+    "id": "invoiced001",
     "name": "Invoiced",
     "country": "US",
-    "website": "https://www.invoiced.fr",
+    "website": "",
     "subscriptionModels": [],
     "features": [
       "Accounts receivable automation",
@@ -736,10 +738,10 @@
     "leadMagnets": []
   },
   {
-    "id": "upflow",
+    "id": "upflow001",
     "name": "Upflow",
     "country": "FR",
-    "website": "https://www.upflow.com",
+    "website": "",
     "subscriptionModels": [],
     "features": [
       "Real-time financial dashboard",
@@ -759,7 +761,7 @@
     "leadMagnets": []
   },
   {
-    "id": "xero",
+    "id": "xero001",
     "name": "Xero",
     "country": "NZ",
     "website": "https://www.xero.com/",
@@ -832,7 +834,7 @@
     ]
   },
   {
-    "id": "freeagent",
+    "id": "freeagent001",
     "name": "FreeAgent",
     "country": "UK",
     "website": "https://www.freeagent.com",
@@ -916,6 +918,231 @@
       "VAT Calculator",
       "ROI Calculator",
       "Accounting Calendar"
+    ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "aryza-dunning",
+    "name": "Aryza Dunning",
+    "country": "NL",
+    "website": "https://www.aryza.com/nl_EN/products/aryza-dunning/",
+    "subscriptionModels": [],
+    "features": [
+      "Automated dunning processes",
+      "Real-time financial dashboard",
+      "Debtor segmentation",
+      "Customizable workflows",
+      "Dispute management",
+      "Debt collection and recovery"
+      "Credit management"
+
+    ],
+    "erps": [],
+    "leadMagnets": [
+      "Brochure",
+      "Case Study", "News","Video"
     ]
+  },
+  {
+    "id": "xolv",
+    "name": "Xolv",
+    "country": "NL",
+    "website": "https://www.xolv.nl/en/credit-management-software/",
+    "subscriptionModels": [],
+    "features": [
+      "Credit management features",
+      "Automated payment reminder system",
+      "Dispute management",
+      "Debt collection and recovery",
+      "Real-time financial dashboard",
+      "Secure customer portal with payment options"
+    ],
+    "erps": [],
+    "leadMagnets": []
+  },
+  {
+    "id": "apxium",
+    "name": "Apxium",
+    "country": "UK",
+    "website": "https://www.apxium.com/",
+    "subscriptionModels": [],
+    "features": [
+      "Automated invoicing",
+      "Payment processing integration",
+      "Secure customer portal with payment options",
+      "Real-time financial dashboard",
+      "Automated payment reminder system",
+      "Dispute management"
+    ],
+    "erps": [],
+    "leadMagnets": []
+  },
+  {
+    "id": "blackline",
+    "name": "BlackLine",
+    "country": "US",
+    "website": "https://www.blackline.com/",
+    "subscriptionModels": [],
+    "features": [
+      "Accounts receivable automation",
+      "Credit management features",
+      "AI-powered cash application",
+      "Dispute management",
+      "Real-time financial dashboard",
+      "Customizable workflows"
+    ],
+    "erps": [],
+    "leadMagnets": []
+  },
+  {
+    "id": "maxio",
+    "name": "Maxio",
+    "country": "US",
+    "website": "https://www.maxio.com/product/accounts-receivable-management",
+    "subscriptionModels": [],
+    "features": [
+      "Automated payment reminder system",
+      "Customizable workflows",
+      "Real-time financial dashboard",
+      "Dispute management",
+      "Debt collection and recovery",
+      "Secure customer portal with payment options"
+    ],
+    "erps": [],
+    "leadMagnets": []
+  },
+{
+    "id": "collectonline",
+    "name": "CollectOnline",
+    "country": "BE",
+    "website": "https://collectonline.eu/en/",
+    "subscriptionModels": [],
+    "features": [
+      "Automated debtor follow-up",
+      "Customizable workflows",
+      "Integrated communication tools",
+      "Real-time financial dashboard"
+    ],
+    "erps": [],
+    "leadMagnets": [
+      "Free Demo"
+    ]
+  },
+  {
+    "id": "clearnox",
+    "name": "Clearnox",
+    "country": "FR",
+    "website": "https://clearnox.com/en/",
+    "subscriptionModels": [],
+    "features": [
+      "Invoice tracking",
+      "Automated reminders",
+      "Payment monitoring",
+      "Cash flow analytics"
+    ],
+    "erps": [],
+    "leadMagnets": [
+      "Webinar",
+      "Free Demo"
+    ]
+  },
+  {
+    "id": "receeve",
+    "name": "Receeve",
+    "country": "DE",
+    "website": "https://www.receeve.com/",
+    "subscriptionModels": [],
+    "features": [
+      "Debt collection automation",
+      "AI-driven insights",
+      "Customizable workflows",
+      "Real-time financial dashboard"
+    ],
+    "erps": [],
+    "leadMagnets": [
+      "Case Study",
+      "Free Trial"
+    ]
+  },
+  {
+    "id": "aryza-dunning",
+    "name": "Aryza Dunning",
+    "country": "DE",
+    "website": "https://www.aryza.com/nl_EN/products/aryza-dunning/",
+    "subscriptionModels": [],
+    "features": [
+      "Automated payment reminders",
+      "Dispute management",
+      "Real-time financial dashboard",
+      "Cash flow analytics"
+    ],
+    "erps": [],
+    "leadMagnets": [
+      "Free Demo"
+    ]
+  },
+  {
+    "id": "ginimachine",
+    "name": "GiniMachine",
+    "country": "LT",
+    "website": "https://ginimachine.com/risk-management/",
+    "subscriptionModels": [],
+    "features": [
+      "Credit risk analysis",
+      "AI-powered scoring",
+      "Debt collection prioritization",
+      "Customizable workflows"
+    ],
+    "erps": [],
+    "leadMagnets": [
+      "Free Trial",
+      "Case Study"
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   }
 ]
