@@ -917,31 +917,5 @@
       "ROI Calculator",
       "Accounting Calendar"
     ]
-  },
-  {
-    "id": "mavqowiw6crdqtxzvor",
-    "name": "test",
-    "country": "nl",
-    "website": "https:\\\\www.test.nl",
-    "subscriptionModels": [
-      {
-        "name": "s",
-        "currentPrice": 3,
-        "currentPriceDate": "2025-05-19",
-        "oldPrice": 44,
-        "invoiceAmount": 4,
-        "invoiceFrequency": "monthly",
-        "notes": "ngrrtr"
-      }
-    ],
-    "features": [
-      "Payment processing integration"
-    ],
-    "erps": [
-      "ACD Connector"
-    ],
-    "leadMagnets": [
-      "Case Study"
-    ]
   }
 ]
