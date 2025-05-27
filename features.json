@@ -85,11 +85,6 @@
     "category": "Accounting"
   },
   {
-    "id": "feature_24",
-    "name": "Document scanning",
-    "category": "Mobile"
-  },
-  {
     "id": "feature_25",
     "name": "Banking integration",
     "category": "Integration"
