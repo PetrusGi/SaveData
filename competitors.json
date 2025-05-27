@@ -420,6 +420,7 @@
       }
     ],
     "features": [
+      "Automated payment reminder system",
       "Debt collection and recovery",
       "Payment monitoring",
       "Late fee calculations",
@@ -460,6 +461,7 @@
       }
     ],
     "features": [
+      "Automated payment reminder system",
       "Real-time financial dashboard",
       "Banking integration",
       "Multi-user access with role-based permissions",
@@ -622,6 +624,7 @@
     "website": "",
     "subscriptionModels": [],
     "features": [
+      "Automated payment reminder system",
       "Credit management features",
       "Cash flow analytics",
       "Debt collection and recovery",
@@ -704,6 +707,7 @@
       }
     ],
     "features": [
+      "Automated payment reminder system",
       "Accounts payable automation",
       "Cash flow analytics",
       "Multi-company and multi-currency support",
@@ -737,6 +741,7 @@
       }
     ],
     "features": [
+      "Automated payment reminder system",
       "AI-powered reconciliation",
       "Automated invoicing",
       "Cash flow analytics",
@@ -766,6 +771,7 @@
       }
     ],
     "features": [
+      "Automated payment reminder system",
       "Real-time financial dashboard",
       "Cash flow analytics",
       "Automated payment reminder system",
@@ -878,7 +884,8 @@
         "notes": "Available if you have a qualifying business current account with NatWest, Royal Bank of Scotland, Ulster Bank, or Mettle."
       }
     ],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Automated invoicing",
       "Time tracking",
       "Banking integration",
@@ -949,7 +956,8 @@
         "invoiceFrequency": "monthly"
       }
     ],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Real-time financial dashboard",
       "Customizable workflows",
       "Dispute management",
@@ -1087,7 +1095,8 @@
         "invoiceFrequency": "monthly"
       }
     ],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Payment monitoring",
       "Cash flow analytics"
     ],
@@ -1111,6 +1120,7 @@
       }
     ],
     "features": [
+      "Automated payment reminder system",
       "Customizable workflows",
       "Real-time financial dashboard"
     ],
@@ -1126,7 +1136,8 @@
     "country": "DE",
     "website": "https://www.aryza.com/nl_EN/products/aryza-dunning/",
     "subscriptionModels": [],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Dispute management",
       "Real-time financial dashboard",
       "Cash flow analytics"
@@ -1142,7 +1153,8 @@
     "country": "LT",
     "website": "https://ginimachine.com/risk-management/",
     "subscriptionModels": [],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Customizable workflows"
     ],
     "erps": [],
@@ -1157,7 +1169,8 @@
     "country": "UK",
     "website": "https://www.esker.co.uk",
     "subscriptionModels": [],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Collections management",
       "Customizable dashboards and analytics"
     ],
@@ -1173,7 +1186,8 @@
     "country": "UK",
     "website": "https://www.netsuite.co.uk",
     "subscriptionModels": [],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Automated invoicing",
       "Real-time financial dashboard"
     ],
@@ -1189,7 +1203,8 @@
     "country": "UK",
     "website": "https://www.ogl.co.uk",
     "subscriptionModels": [],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Customizable workflows"
     ],
     "erps": [],
@@ -1201,7 +1216,8 @@
     "country": "US",
     "website": "https://www.highradius.com",
     "subscriptionModels": [],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Dispute management"
     ],
     "erps": [],
@@ -1213,7 +1229,8 @@
     "country": "US",
     "website": "https://www.serrala.com",
     "subscriptionModels": [],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Collections management"
     ],
     "erps": [],
@@ -1225,7 +1242,8 @@
     "country": "US",
     "website": "https://www.sap.com",
     "subscriptionModels": [],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Dispute management"
     ],
     "erps": [],
@@ -1237,7 +1255,8 @@
     "country": "US",
     "website": "https://www.versapay.com",
     "subscriptionModels": [],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Dispute management"
     ],
     "erps": [],
@@ -1253,7 +1272,8 @@
     "country": "US",
     "website": "https://www.gaviti.com",
     "subscriptionModels": [],
-    "features": [ "Automated payment reminder system",
+    "features": [ 
+      "Automated payment reminder system",
       "Dispute management",
       "Cash flow analytics"
     ],
@@ -1270,7 +1290,9 @@
     "country": "US",
     "website": "https://www.apideck.com",
     "subscriptionModels": [],
-    "features": [ "Automated payment reminder system",],
+    "features": [ 
+      "Automated payment reminder system"
+    ],
     "erps": [],
     "leadMagnets": [
       "Guides"
@@ -1315,10 +1337,11 @@
       "notes": "3 users"
     }
   ],
-  "features": [ "Automated payment reminder system",
-    "Automated invoicing"],
+  "features": [ 
+    "Automated payment reminder system",
+    "Automated invoicing"
+  ],
   "erps": [],
   "leadMagnets": [Wiki, Blog, Casestudies]
 }
-
 ]
