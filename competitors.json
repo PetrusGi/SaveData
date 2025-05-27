@@ -1262,19 +1262,6 @@
     "leadMagnets": []
   },
   {
-    "id": "sap-s4hana",
-    "name": "SAP S/4HANA Cloud",
-    "country": "US",
-    "website": "https://www.sap.com",
-    "subscriptionModels": [],
-    "features": [
-      "Automated payment reminder system",
-      "Dispute management"
-    ],
-    "erps": [],
-    "leadMagnets": []
-  },
-  {
     "id": "versapay",
     "name": "Versapay",
     "country": "US",
