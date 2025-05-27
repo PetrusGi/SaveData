@@ -1048,17 +1048,38 @@
     "name": "Maxio",
     "country": "US",
     "website": "https://www.maxio.com/product/accounts-receivable-management",
-    "subscriptionModels": [],
+    "subscriptionModels": [
+      {
+        "name": "Grow",
+        "currentPrice": 599,
+        "currentPriceDate": "2025-05-27",
+        "invoiceFrequency": "monthly",
+        "notes": "100k a month limit, usage based billing"
+      }
+    ],
     "features": [
       "Automated payment reminder system",
       "Customizable workflows",
       "Real-time financial dashboard",
       "Dispute management",
       "Debt collection and recovery",
-      "Secure customer portal with payment options"
+      "Secure customer portal with payment options",
+      "Debt collection and recovery",
+      "Automated invoicing",
+      "Online payment methods"
     ],
-    "erps": [],
-    "leadMagnets": []
+    "erps": [
+      "QuickBooks",
+      "Xero",
+      "Oracle NetSuite",
+      "Sage Intacct"
+    ],
+    "leadMagnets": [
+      "Resources",
+      "Case Study",
+      "Wiki",
+      "Webinars"
+    ]
   },
   {
     "id": "collectonline",
