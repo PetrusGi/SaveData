@@ -1275,5 +1275,24 @@
     "leadMagnets": [
       "Guides"
     ]
+  },
+  {
+    "id": "mb68ohi67ulyhsxds2e",
+    "name": "Debitan",
+    "country": "NL",
+    "website": "https://www.debitan.nl",
+    "subscriptionModels": [
+      {
+        "name": "Starter",
+        "currentPrice": 34.95,
+        "currentPriceDate": "2025-05-27",
+        "invoiceAmount": 50,
+        "invoiceFrequency": "monthly",
+        "notes": "1 user"
+      }
+    ],
+    "features": [],
+    "erps": [],
+    "leadMagnets": []
   }
 ]
