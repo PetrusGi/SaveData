@@ -662,12 +662,15 @@
       "Sage",
       "Microsoft Dynamics 365",
       "Xero",
-      "Exact"
+      "Exact",
+      "FreeAgent",
+      "Zoho"
     ],
     "leadMagnets": [
       "Templates",
       "Free Trial",
-      "Resources"
+      "Resources",
+      "Free Demo"
     ]
   },
   {
