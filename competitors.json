@@ -622,7 +622,32 @@
     "name": "Credit-IQ",
     "country": "UK",
     "website": "",
-    "subscriptionModels": [],
+    "subscriptionModels": [
+      {
+        "name": "Topaz",
+        "currentPrice": 29,
+        "currentPriceDate": "2025-06-03",
+        "invoiceAmount": 40,
+        "invoiceFrequency": "monthly",
+        "notes": "2 last reminder"
+      },
+      {
+        "name": "Crystal",
+        "currentPrice": 69,
+        "currentPriceDate": "2025-06-03",
+        "invoiceAmount": 110,
+        "invoiceFrequency": "monthly",
+        "notes": "5 last reminder"
+      },
+      {
+        "name": "Onyx",
+        "currentPrice": 149,
+        "currentPriceDate": "2025-06-03",
+        "invoiceAmount": 300,
+        "invoiceFrequency": "monthly",
+        "notes": "15 last reminder"
+      }
+    ],
     "features": [
       "Automated payment reminder system",
       "Credit management features",
@@ -631,8 +656,18 @@
       "Real-time financial dashboard",
       "Customizable workflows"
     ],
-    "erps": [],
-    "leadMagnets": []
+    "erps": [
+      "QuickBooks",
+      "NetSuite",
+      "Sage",
+      "Microsoft Dynamics 365",
+      "Xero",
+      "Exact"
+    ],
+    "leadMagnets": [
+      "Templates",
+      "Free Trial"
+    ]
   },
   {
     "id": "kwote001",
