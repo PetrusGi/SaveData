@@ -626,7 +626,7 @@
       {
         "name": "Topaz",
         "currentPrice": 29,
-        "currentPriceDate": "2025-06-03",
+        "currentPriceDate": "2025-06-24",
         "invoiceAmount": 40,
         "invoiceFrequency": "monthly",
         "notes": "2 last reminder"
@@ -634,7 +634,7 @@
       {
         "name": "Crystal",
         "currentPrice": 69,
-        "currentPriceDate": "2025-06-03",
+        "currentPriceDate": "2025-06-24",
         "invoiceAmount": 110,
         "invoiceFrequency": "monthly",
         "notes": "5 last reminder"
@@ -642,7 +642,7 @@
       {
         "name": "Onyx",
         "currentPrice": 149,
-        "currentPriceDate": "2025-06-03",
+        "currentPriceDate": "2025-06-24",
         "invoiceAmount": 300,
         "invoiceFrequency": "monthly",
         "notes": "15 last reminder"
@@ -664,7 +664,8 @@
       "Xero",
       "Exact",
       "FreeAgent",
-      "Zoho"
+      "Zoho",
+      "Bestand of API"
     ],
     "leadMagnets": [
       "Templates",
