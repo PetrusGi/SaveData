@@ -299,35 +299,34 @@
       {
         "name": "Free",
         "currentPrice": 0,
-        "currentPriceDate": "2025-03-07",
+        "currentPriceDate": "2025-06-24",
         "invoiceAmount": 5,
-        "invoiceFrequency": "monthly",
-        "notes": "2 months free if you pay for a year"
+        "invoiceFrequency": "monthly"
       },
       {
         "name": "Pure",
         "currentPrice": 7.5,
-        "currentPriceDate": "2025-03-07",
+        "currentPriceDate": "2025-06-24",
         "invoiceFrequency": "monthly",
         "notes": "2 months free if you pay for a year"
       },
       {
         "name": "Basic",
         "currentPrice": 12.5,
-        "currentPriceDate": "2025-03-07",
+        "currentPriceDate": "2025-06-24",
         "invoiceAmount": 10,
         "invoiceFrequency": "monthly"
       },
       {
         "name": "Pro",
         "currentPrice": 25,
-        "currentPriceDate": "2025-03-07",
+        "currentPriceDate": "2025-06-24",
         "invoiceFrequency": "monthly"
       },
       {
         "name": "Master",
         "currentPrice": 37.5,
-        "currentPriceDate": "2025-03-07",
+        "currentPriceDate": "2025-06-24",
         "invoiceFrequency": "monthly"
       }
     ],
